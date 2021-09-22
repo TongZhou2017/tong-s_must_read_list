@@ -17,6 +17,7 @@ papers read list about biology, bioinformatics, and others
 |The impact of intragenomic rRNA variation on metabarcoding-derived diversity estimates: A case study from marine nematodes|2020|[Environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.77)|[github](https://github.com/BikLab/nematode-rRNA-variants)|marine nematodes metabarcoding|
 |DNA metabarcoding marker choice skews perception of marine eukaryotic biodiversity|2021|[Environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.245)||Evaluate marker|
 |pr2-primers: An 18S rRNA primer database for protists|2021|[Molecular ecology resources](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13465)||protist primer database|
+|Who Is Where in Marine Food Webs? A Trait-Based Analysis of Network Positions|2021|[Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2021.636042/full)|network|
 
 ## Single cell
 
