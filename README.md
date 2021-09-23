@@ -31,8 +31,7 @@ papers read list about biology, bioinformatics, and others
 |Droplet-based Single-cell Total RNA-seq Reveals Differential Non-Coding Expression and Splicing Patterns during Mouse Development|2021|[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460240v1.full.pdf)|[github_1](https://github.com/annaalemany/vasaseq) [github_2](https://github.com/hemberg-lab/MicroExonator) [github_3](https://github.com/hemberg-lab/RNA_seq_snakepipes)|full length scRNA-seq|
 |Cells of the human intestinal tract mapped across space and time|2021|[Nature](https://www.nature.com/articles/s41586-021-03852-1)|[github_1](https://github.com/Teichlab/SpaceTimeGut) [github_2](https://github.com/vitkl/fetal_gut_mapping/) [github_3](https://github.com/natsuhiko/PHM)|gut|
 |Diet-induced alteration of intestinal stem cell function underlies obesity and prediabetes in mice|2021|[Nature Metabolism](https://www.nature.com/articles/s42255-021-00458-9.epdf)|[github](https://github.com/theislab/2021_Aliluev_Tritschler_gut_HFD)|gut lineage relations|
-|The Specious Art of Single-Cell Genomics|2021|[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v2.full.pdf+html)|[github](https:
-//github.com/pachterlab/CBP_2021)|MCML batter than t-SNE and UMAP|
+|The Specious Art of Single-Cell Genomics|2021|[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v2.full.pdf+html)|[github](https://github.com/pachterlab/CBP_2021)|MCML batter than t-SNE and UMAP|
 
 ## Rhythm
 
