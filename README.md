@@ -40,3 +40,8 @@ papers read list about biology, bioinformatics, and others
 |Title|Year|Link|Code|Note|
 |---|---|---|---|---|
 |Deep learning to analyse microscopy images|2021|[Biochemist](https://portlandpress.com/biochemist/article/doi/10.1042/bio_2021_167/229698/Deep-learning-to-analyse-microscopy-images)|[github](https://github.com/HenriquesLab/ZeroCostDL4Mic)|Image segment and denoise|
+
+## TGS
+|Title|Year|Link|Code|Note|
+|---|---|---|---|---|
+|PacBio sequencing output increased through uniform and directional fivefold concatenation|2021|[Scientific Reports](https://www.nature.com/articles/s41598-021-96829-z)|[github](https://github.com/ichen-lab-ucsb/DeCatCounter)|PacBio accuracy improve|
