@@ -54,4 +54,4 @@ papers read list about biology, bioinformatics, and others
 
 |Title|Year|Link|Code|Note|
 |---|---|---|---|---|
-|Identification of representative seamount areas in the offshore Pacific bioregion, Canada|2021|[Canadian Science Advisory Secretariat Science Advisory Report]https://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2021/2021_041-eng.pdf)||Northeast Pacific seamounts|
+|Identification of representative seamount areas in the offshore Pacific bioregion, Canada|2021|[Canadian Science Advisory Secretariat Science Advisory Report](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2021/2021_041-eng.pdf)||Northeast Pacific seamounts|
