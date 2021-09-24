@@ -44,7 +44,7 @@ papers read list about biology, bioinformatics, and others
 |Title|Year|Link|Code|Note|
 |---|---|---|---|---|
 |Deep learning to analyse microscopy images|2021|[Biochemist](https://portlandpress.com/biochemist/article/doi/10.1042/bio_2021_167/229698/Deep-learning-to-analyse-microscopy-images)|[github](https://github.com/HenriquesLab/ZeroCostDL4Mic)|Image segment and denoise|
-|Biologically informed deep neural network for prostate cancer discovery|2021|[](https://www.nature.com/articles/s41586-021-03922-4)|[github](https://github.com/marakeby/pnet_prostate_paper)||
+|Biologically informed deep neural network for prostate cancer discovery|2021|[Nature](https://www.nature.com/articles/s41586-021-03922-4)|[github](https://github.com/marakeby/pnet_prostate_paper)|Predict cancer state|
 
 ## TGS
 
