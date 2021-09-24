@@ -62,7 +62,7 @@ papers read list about biology, bioinformatics, and others
 
 |Title|Year|Link|Code|Note|
 |---|---|---|---|---|
-|Interactive Effects of Hypoxia and Temperature on Coastal Pelagic Zooplankton and Fish|2019|[Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2019.00139/full)|||Hypoxia and Temperature stress on Zooplankton and Fish|
+|Interactive Effects of Hypoxia and Temperature on Coastal Pelagic Zooplankton and Fish|2019|[Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2019.00139/full)||Hypoxia and Temperature stress on Zooplankton and Fish|
 
 ## Physical oceanographic interpretation of biology
 
