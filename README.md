@@ -23,6 +23,9 @@ papers read list about biology, bioinformatics, and others
 |Picophytoplankton size and biomass around equatorial eastern Indian Ocean|2021|[Microbiology Open](https://onlinelibrary.wiley.com/doi/10.1002/mbo3.629)||Eastern Indian Ocean Picophytoplankton|
 |BiomeHorizon: visualizing microbiome time series data in R|2021|[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.29.458140v1.full.pdf+html)|[github](https://github.com/blekhmanlab/biomehorizon/)|R package visualization|
 |Strategies for sample labelling and library preparation in DNA metabarcoding studies|2021|[Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13512)||Compare experimental methods|
+|SCRAPP: A tool to assess the diversity of microbial samples from phylogenetic placements|2021|[Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13255)|[github](https://github.com/pbdas/scrapp)|diversity distribution clustering|
+|Characterization of putative circular plasmids in  sponge-associated bacterial communities using a selective multiply-primed rolling circle amplification|2021|[Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13248)||RCA host microbiome sponge|
+|The quest for absolute abundance: The use of internal standards for DNA-based community ecology|2021|[Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13247)||absolute abundance|
 
 ## Single cell
 
