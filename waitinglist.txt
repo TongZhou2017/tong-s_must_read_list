@@ -419,3 +419,23 @@ https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00487-3?rss=yes&utm_
 https://www.nature.com/articles/s41579-021-00602-y 细菌噬菌体互作综述
 
 https://essd.copernicus.org/preprints/essd-2021-386/ 2021碳预算
+
+https://www.nature.com/articles/s41587-020-0712-z Nanopore识别RNA结构
+
+https://www.biorxiv.org/content/10.1101/2021.11.04.467354v1 空间转录组分析工具
+
+https://www.researchsquare.com/article/rs-380297/v1 真核生物与病毒之间的基因转移
+
+https://www.nature.com/articles/s41396-021-01143-1 海洋氧最小层病毒群落结构与AMG关系发了ISME
+
+http://elementsmagazine.org/2021/04/01/cave-decorating-with-microbes-geomicrobiology-of-caves/ 微生物地理
+
+https://www.biorxiv.org/content/10.1101/2021.11.07.467660v1 bulk RNA-seq注释scRNA-seq工具
+
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01169-z 长期微生物组变化
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.748961/full 氧最小层微生物变化模式综述
+
+https://www.frontiersin.org/articles/10.3389/fenvs.2021.751978/full?utm_source=ad&utm_medium=tw&utm_campaign=ba_sci_fenvs 海平面上升
+
+https://www.nature.com/articles/s41587-021-01108-x Nanopore测序分析综述
