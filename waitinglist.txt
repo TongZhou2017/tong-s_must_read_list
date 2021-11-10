@@ -439,3 +439,17 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2021.748961/full 氧最小层
 https://www.frontiersin.org/articles/10.3389/fenvs.2021.751978/full?utm_source=ad&utm_medium=tw&utm_campaign=ba_sci_fenvs 海平面上升
 
 https://www.nature.com/articles/s41587-021-01108-x Nanopore测序分析综述
+
+https://www.frontiersin.org/articles/10.3389/fcell.2021.743421/full 斑马鱼单细胞图谱
+
+https://www.nature.com/articles/s41467-020-15169-0 微生物组动态变化
+
+https://www.biorxiv.org/content/10.1101/2021.11.08.467712v1 跨物种单细胞图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.07.467598v1 空间转录组学分析工具
+
+https://mbmg.pensoft.net/article/72371/ 芬兰海湾浮游生物多样性
+
+https://www.nature.com/articles/s41579-021-00648-y 极端环境微生物组综述
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13546 木材barcode
