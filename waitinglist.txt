@@ -453,3 +453,27 @@ https://mbmg.pensoft.net/article/72371/ 芬兰海湾浮游生物多样性
 https://www.nature.com/articles/s41579-021-00648-y 极端环境微生物组综述
 
 https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13546 木材barcode
+
+https://link.springer.com/article/10.1007%2Fs10661-021-09563-4 蜜蜂微生物组 微生物群落结构比较分析方法
+
+https://journals.asm.org/doi/10.1128/AEM.01939-21 奶酪微生物组 微生物群落结构比较分析方法
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.762076/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 盐沼微生物组 多类型微生物组图谱
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02506-9 差异分析新方法 整合入工具
+
+https://www.biorxiv.org/content/10.1101/2021.11.08.467842v1.full.pdf+html 不同材质滤膜捕获eDNA的比较 eDNA基础
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.745915/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 海冰微生物组 多类型微生物组图谱
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002020 微生物组作用 微生物组基础
+
+https://www.sciencedirect.com/science/article/pii/S0048969721063750?via%3Dihub 岩浆岩芯微生物组 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.08.467781v1?rss=1&utm_source=dlvr.it&utm_medium=twitter 批次效应矫正工具 单细胞分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.11.08.467820v1?rss=1&utm_source=dlvr.it&utm_medium=twitter 细胞类型注释工具 单细胞分析工具
+
+https://www.science.org/doi/10.1126/scirobotics.abl4925 海底机器人 海洋学基础
+
+https://www.mdpi.com/1999-4915/13/11/2126 镜检海洋浮游病毒 病毒多样性
