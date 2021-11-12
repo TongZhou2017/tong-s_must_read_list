@@ -477,3 +477,32 @@ https://www.biorxiv.org/content/10.1101/2021.11.08.467820v1?rss=1&utm_source=dlv
 https://www.science.org/doi/10.1126/scirobotics.abl4925 海底机器人 海洋学基础
 
 https://www.mdpi.com/1999-4915/13/11/2126 镜检海洋浮游病毒 病毒多样性
+
+https://www.nature.com/articles/s41586-021-03984-4 全球表明变暖 全球变暖
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13549 metabarcoding空白对照 分子生态实验方法
+
+https://journals.asm.org/doi/full/10.1128/AEM.01451-14 PCR扩增偏好 分子生态实验方法
+
+https://www.biorxiv.org/content/10.1101/2021.11.09.468000v1 remappingOTU工具 分子生态分析工具
+
+https://www.nature.com/articles/s41598-021-01002-1 西班牙人微生物组 多类型微生物组图谱
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.756808/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 糖尿病儿童微生物组 多类型微生物组图谱
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02519-4 单细胞分析工具汇总 单细胞分析
+
+https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1 单细胞细胞类型映射工具 单细胞分析
+
+https://www.biorxiv.org/content/10.1101/2021.11.09.467939v1 微生物共相关网络分析工具 微生物组分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.10.27.466057v2.full.pdf+html Nanopore版本更新 Nanopore测序基础
+
+https://www.biorxiv.org/content/10.1101/2021.11.08.467740v1.full.pdf+html 单细胞细胞类型界定 单细胞分析
+
+https://www.illumina.com/science/genomics-research/articles/reviewer-alignments-short-reads-long-repeat.html 多条重复短序列向长序列mapping可视化工具 序列比对可视化工具
+
+https://www.nature.com/articles/s41396-021-01146-y 微生物群落演变塑造因素分析 微生物分析套路范例 过程报道https://microbiologycommunity.nature.com/posts/a-microbial-journey-from-soils-to-the-estuary-the-processes-that-shape-aquatic-microbial-communities?badge_id=596-isme-j
+
+
+
