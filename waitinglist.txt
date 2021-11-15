@@ -504,5 +504,14 @@ https://www.illumina.com/science/genomics-research/articles/reviewer-alignments-
 
 https://www.nature.com/articles/s41396-021-01146-y 微生物群落演变塑造因素分析 微生物分析套路范例 过程报道https://microbiologycommunity.nature.com/posts/a-microbial-journey-from-soils-to-the-estuary-the-processes-that-shape-aquatic-microbial-communities?badge_id=596-isme-j
 
+https://academic.oup.com/nargab/article/2/2/lqaa037/5843804 三代数据矫正标准方法 Homopolymer矫正
 
+https://www.cell.com/trends/microbiology/fulltext/S0966-842X(20)30262-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0966842X20302626%3Fshowall%3Dtrue 微生物氧耐受 微生物环境适应机制
 
+https://www.mdpi.com/1660-4601/18/21/11470 海山有害藻华metabarcoding分析 课题组合作文章
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.772149/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 养殖环境微生物组 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/607390v1.full.pdf+html 基因组大小评估工具 基因组分析工具
+
+https://www.sciencedirect.com/science/article/pii/S0048969721066171?via%3Dihub#f0035 深海抗生素基因分布 抗生素基因
