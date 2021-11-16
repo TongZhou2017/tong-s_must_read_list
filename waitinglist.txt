@@ -515,3 +515,19 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2021.772149/full?utm_source=S
 https://www.biorxiv.org/content/10.1101/607390v1.full.pdf+html 基因组大小评估工具 基因组分析工具
 
 https://www.sciencedirect.com/science/article/pii/S0048969721066171?via%3Dihub#f0035 深海抗生素基因分布 抗生素基因
+
+https://www.nature.com/articles/s41587-021-01093-1 全长单细胞转录组 单细胞测序分析
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.140 珊瑚礁鱼类eDNA eDNA
+
+https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13802 远洋鱼类eDNA和影像检测 eDNA
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7057 鲸鱼eDNA eDNA
+
+https://www.science.org/doi/10.1126/sciadv.abk0734?utm_campaign=SciAdv&utm_source=Social&utm_medium=Twitter 人类疾病蛋白组图谱 生物学基础
+
+https://www.sciencedirect.com/science/article/pii/S2351989421004595 海洋生物barcoding覆盖度不足 barcoding
+
+https://www.science.org/doi/10.1126/sciadv.abj1569?utm_campaign=SciAdv&utm_source=Social&utm_medium=Twitter 中国海洋保护 海洋保护
+
+https://www.nature.com/articles/s41586-021-04108-8?utm_source=twt_nat&utm_medium=social&utm_campaign=nature 欧亚大陆语言演化 人类学
