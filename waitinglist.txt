@@ -531,3 +531,34 @@ https://www.sciencedirect.com/science/article/pii/S2351989421004595 海洋生物
 https://www.science.org/doi/10.1126/sciadv.abj1569?utm_campaign=SciAdv&utm_source=Social&utm_medium=Twitter 中国海洋保护 海洋保护
 
 https://www.nature.com/articles/s41586-021-04108-8?utm_source=twt_nat&utm_medium=social&utm_campaign=nature 欧亚大陆语言演化 人类学
+
+https://www.nature.com/articles/s41396-020-00857-y 珊瑚光合共生藻最深记录 珊瑚共生
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13525 昆虫iDNA采样 iDNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13535 使用Lysis-Hi-C研究微生物互作 Lysis-Hi-C
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13536 海洋底栖微生物群落metabarcoding 多类型微生物组图谱
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13544 河流eDNA eDNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13543 iDNA效率评估 iDNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13532 分子生态学中的机器学习 机器学习
+
+https://www.nature.com/articles/s41467-021-26779-7.epdf?sharing_token=X0dyW6NLh5h9WavRgEvmY9RgN0jAjWel9jnR3ZoTv0O0usiDqRcxhbf2VTRW4K8Vi1WJSSG6cmtLpGQZFvq2QLC23BMpMLmoZfNADpMXOqLsnZ591u23fZlFg4aJQDyX4K_ckZC7gAuqhxuGEo-ENLLwio8EVWgfc77K8vcwtM0%3D 多样品单细胞分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s41598-021-01072-1 黏土微生物组 多类型微生物组图谱
+
+https://link.springer.com/article/10.1007%2Fs00248-021-01918-1 日光浴真核微生物组 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.14.468533v1 多基因区域探寻微生物对淡水环境的细微影响 多类型微生物组图谱
+
+https://www.nature.com/articles/s41580-021-00424-z?WT.mc_id=TWT_NatRevMCB 脊椎动物早期发育机制 生物学基础
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259842 土壤线虫metabarcoding 多类型微生物组图谱
+
+https://www.nature.com/articles/s41564-021-00979-9 北极宏基因组中的细菌古菌 多类型微生物组图谱
+
+https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15838 淡水原生动物metabarcoding 多类型微生物组图谱
+
