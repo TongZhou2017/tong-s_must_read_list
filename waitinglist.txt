@@ -563,3 +563,68 @@ https://www.nature.com/articles/s41564-021-00979-9 北极宏基因组中的细�
 https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15838 淡水原生动物metabarcoding 多类型微生物组图谱
 
 https://www.biodiversity-science.net/CN/10.17520/biods.2017034 物种共生理论 生态学基础
+
+https://www.nature.com/articles/s41564-021-00918-8 古菌物种注释标准化 分子多样性分析方法
+
+https://www.nature.com/articles/s41564-021-00917-9 海洋沉积物DNA降解机制的多组学解析 海洋生态学基础
+
+https://www.nature.com/articles/s41564-021-00951-7 DNA的z环复制 生物学基础
+
+https://www.nature.com/articles/s41564-021-00981-1 丙烯酸酯抑制纤毛虫捕获细菌 生态信号调节 同刊评议https://www.nature.com/articles/s41564-021-00992-y
+
+https://www.nature.com/articles/s41564-021-00971-3 二甲基硫醚介导浮游动物捕食藻类 生态信号调节
+
+https://www.nature.com/articles/s41564-020-00852-1 极端降雨对微生物群落的影响 群落结构复原动态变化模型
+
+https://www.nature.com/articles/s41564-020-00859-8 海洋微生物碳氢化合物循环 海洋生态学基础
+
+https://www.nature.com/articles/s41564-020-00851-2 海洋微生物生态位在转录水平的揭示 海洋生态学基础
+
+https://www.nature.com/articles/s41564-021-00886-z 纤毛虫功能进化 生物进化基础
+
+https://www.nature.com/articles/s41564-021-00888-x 真菌分类大事件梳理及公共数据库挖掘 多类型微生物组图谱
+
+https://www.nature.com/articles/s41467-021-26918-0 质体进化起源与红藻进化 生物进化基础
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7918 狼粪便eDNA确定捕食关系 eDNA
+
+https://www.biorxiv.org/content/10.1101/2021.10.22.465455v1.full.pdf+html 细胞轨迹分析工具 单细胞分析工具
+
+https://arxiv.org/abs/2002.05687 深度学习及非深度学习聚类方法比较 统计分析基础
+
+https://academic.oup.com/gigascience/article/7/7/giy083/5052205 树聚类 统计分析基础
+
+https://www.nature.com/articles/s41592-020-0748-5 树聚类简化单细胞图谱 单细胞分析工具
+
+https://www.nature.com/articles/s41467-021-22266-1 小鼠肾脏单细胞转录组及空间可及性图谱 肾脏学基础
+
+https://www.science.org/doi/10.1126/science.aar2131 小鼠肾脏单细胞转录组图谱 肾脏学基础
+
+https://www.pnas.org/content/114/46/E9989 小鼠肾脏cDC细胞类型转录组图谱 肾脏学基础
+
+https://www.science.org/doi/10.1126/science.aat5031 肾脏单细胞谱图 肾脏学基础 相关评议https://www.nature.com/articles/nrneph.2017.163
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.702016/full 地中海沉积物原核古菌微生物多样性 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.16.468655v1 ployA尾的降解和保护机制 生物学基础
+
+https://www.nature.com/articles/s41467-021-26077-2?utm_content=buffereed9b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 纤毛虫基因组分析 基因组学基础
+
+https://www.biorxiv.org/content/10.1101/2021.05.17.444465v1.full.pdf+html 单细胞高阶染色体结构分析 单细胞分析
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009442 HMP元数据分析工具 微生物多样性分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.11.15.468626v1.full.pdf+html 宏基因组数据中真核原核生物分类识别工具 微生物多样性分析工具
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.680267/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 植物根系真菌微生物多样性 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.15.468697v1.full.pdf+html 评估模型灵敏度方法 统计学基础
+
+https://www.biorxiv.org/content/10.1101/2021.11.15.468676v1.full.pdf+html 单细胞转录组数据模拟工具比较 单细胞分析工具
+
+https://www.sciencedirect.com/science/article/pii/S0025326X21011632?via%3Dihub 海洋沉积物样品保存方法比较 实验方法学
+
+https://www.cell.com/cell/fulltext/S0092-8674(21)01220-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421012204%3Fshowall%3Dtrue eDNA结构Z-DNA介导生物膜形成 eDNA 相关评议https://www.nature.com/articles/s41579-021-00662-0
+
+https://www.biorxiv.org/content/10.1101/2021.11.17.468975v1.full.pdf+html 核糖体蛋白亚基的结构解析 生物学基础
+
