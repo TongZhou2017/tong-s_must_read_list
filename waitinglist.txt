@@ -628,3 +628,58 @@ https://www.cell.com/cell/fulltext/S0092-8674(21)01220-4?_returnURL=https%3A%2F%
 
 https://www.biorxiv.org/content/10.1101/2021.11.17.468975v1.full.pdf+html 核糖体蛋白亚基的结构解析 生物学基础
 
+https://www.nature.com/articles/s43017-021-00214-3 珊瑚适应综述 生物学基础
+
+https://www.pnas.org/content/118/47/e2115292118 微生物土壤碳循环 地球元素循环
+
+https://www.biorxiv.org/content/10.1101/2021.11.18.469017v1 自动化转录组分析工具 自动化分析
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab789/6430104 宏基因组SNV分析工具 宏基因组分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.11.16.468881v1 宏转录组分析流程 宏转录组分析
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02514-9 微生物启动子分析工具 基因组分析工具
+
+https://www.pnas.org/content/118/47/e2108787118 饮食对动物微生物组的影响 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.15.468733v1.full.pdf+html 单细胞批次效应矫正工具 单细胞分析工具
+
+https://www.nature.com/articles/s41598-021-94823-z?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=SREP_1_AW02_GL_ORG 卫星观测到乳化海现象 海洋学基础
+
+https://www.nature.com/articles/s41564-019-0432-7 磁感起源的原生动物外共生菌 生态共生演化
+
+https://academic.oup.com/gigascience/article/10/11/giab074/6431715 CNV分析工具 基因组分析工具
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.716201/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 牡蛎沉积过程降低沉积物营养过剩 生物环境改造 周进组
+
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab787/6432030?redirectedFrom=fulltext GNN细胞聚类 单细胞分析工具
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab790/6432031 长序列比对的kmer选择 长序列分析工具
+
+https://www.pnas.org/content/118/47/e2107668118 微生物生长的热力学耦合 生物学基础
+
+https://www.biorxiv.org/content/10.1101/2021.11.12.466787v1 序列覆盖度分析工具 基因组分析工具
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.737925/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 海绵微生物组综述 多类型微生物组图谱
+
+https://www.biorxiv.org/content/10.1101/2021.11.15.468733v1 单细胞批次效应矫正差异衡量 单细胞分析工具 https://github.com/scottyler89/PercentMaxDiff
+
+https://www.sciencedirect.com/science/article/abs/pii/S1097276521007954 单细胞空间可及性分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s41576-021-00435-8 ncRNA综述 生物学基础
+
+https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber?utm_campaign=SciMag&utm_source=Social&utm_medium=Facebook 睡眠的多物种间进化 生物演化
+
+https://www.nature.com/articles/nbt.4045 二代全长SSU方法 分子生态学方法
+
+https://www.nature.com/articles/s41598-020-63561-z 18Sv4和v9区比较 分子生态学方法
+
+https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000060?crawler=true DNA提取和扩增对微生物多样性评估的影响 分子生态学方法
+
+https://daniel-vaulot.fr/files/papers/Geisen_2019.pdf 18Sv4和v9引物集 分子生态学方法
+
+https://www.future-science.com/doi/10.2144/btn-2019-0025 接头和引物区之间加入间隔区可提升测序稳定度 分子生态学方法
+
+https://mbmg.pensoft.net/article/36408/ 线虫分子多样性的引物及数据库选择 分子生态学方法
+
+https://www.nature.com/articles/s41598-019-52422-z 18S和28S引物集比较 分子生态学方法
