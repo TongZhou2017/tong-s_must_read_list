@@ -683,3 +683,50 @@ https://www.future-science.com/doi/10.2144/btn-2019-0025 接头和引物区之�
 https://mbmg.pensoft.net/article/36408/ 线虫分子多样性的引物及数据库选择 分子生态学方法
 
 https://www.nature.com/articles/s41598-019-52422-z 18S和28S引物集比较 分子生态学方法
+
+https://www.nature.com/articles/s41587-021-00949-w Nanopore读取RNA表观修饰分析工具 nanopore分析工具
+
+https://www.nature.com/articles/s41587-021-00895-7 单细胞整合分析方法综述 单细胞分析基础
+
+https://www.nature.com/articles/s41587-021-00911-w 癌症样品单细胞拷贝数分析 单细胞分析基础
+
+https://www.nature.com/articles/s41587-021-00985-6 基因组编程语言seq 生信基础
+
+https://www.nature.com/articles/s41587-021-00910-x 单细胞基因调控元件分析 单细胞分析基础
+
+https://www.nature.com/articles/s41587-020-00748-9 单细胞数据整合分析比较 单细胞分析基础
+
+https://www.nature.com/articles/s41587-021-00874-y 小RNA定量方法 生物学基础
+
+https://www.nature.com/articles/s41587-021-00867-x 单细胞数据整合分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s41587-021-00875-x 贝叶斯算法解析单细胞基因表达时期 单细胞分析工具
+
+https://www.nature.com/articles/s41587-021-00916-5 全长circleRNA的nanopore测序 circleRNA测序 相关研究 https://www.nature.com/articles/s41587-021-00842-6
+
+https://www.nature.com/articles/s41587-021-00865-z 单细胞cut&tag测序探讨肿瘤发生 单细胞cut&tag
+
+https://www.nature.com/articles/s41587-021-00869-9 单细胞cut&tag测序探讨组蛋白修饰及转录组因子调控 单细胞cut&tag
+
+https://www.nature.com/articles/s41587-021-00860-4 高通量蛋白组学测序 蛋白组学方法
+
+https://www.nature.com/articles/s41587-021-00859-x 单细胞整合分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s41587-021-00964-x 口腔菌群揭示癌症 多类型微生物组图谱 相关研究 https://www.researchsquare.com/article/rs-55052/v1
+
+https://www.nature.com/articles/s41587-021-00958-9 蛋白组学测序方法专利 蛋白组学方法
+
+https://www.nature.com/articles/s41587-020-00797-0 从宏基因组数据识别物种多样性工具 微生物多样性分析工具
+
+https://www.nature.com/articles/s41587-020-00801-7 单细胞降维排序图工具 单细胞分析工具
+
+https://www.nature.com/articles/s41587-020-00777-4 宏基因组分箱组装工具 宏基因组分析工具
+
+https://www.nature.com/articles/s41587-020-00795-2 单细胞转录组拷贝数及结构变异分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s41587-020-00803-5 单细胞分辨率的影响因素分析工具 单细胞分析工具
+
+https://www.nature.com/articles/s43018-021-00259-9 单细胞蛋白组解析非小细胞肺癌 单细胞蛋白组
+
+
+
