@@ -747,3 +747,26 @@ https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04473.x 真核微�
 https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15592 微生物多样性多因素影响比较 微生物多样性分析基础
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0087624 真核微生物多样性引物比较 微生物多样性分析基础
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.778555/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 茅台酒糟喂小猪 多种类微生物图谱
+
+https://www.nature.com/articles/s41592-021-01333-x 单细胞代谢组分析 单细胞组学分析
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.660024/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 不同材质生物膜对微塑料及微生物附着的差异 微塑料
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.13995 十年旱季雨季森林土壤微生物变化 土壤微生物组图谱
+
+https://www.sciencedirect.com/science/article/pii/S1754504810000309 ITS序列自动定向工具 序列分析工具
+
+https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S1340354011701000 ITS序列自动定向工具 序列分析工具
+
+https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.12073 ITS序列自动定向工具 序列分析工具
+
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12613 R包iNEXT可视化微生物多样性稀释性曲线 微生物多样性分析工具
+
+https://www.sciencedirect.com/science/article/pii/S2001037021005067 张涛组微生物代谢 微生物代谢
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13358 可视化丰度表格分析工具 微生物多样性分析工具
+
+https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13407 不同物种注释方法比较 微生物多样性分析基础
+
