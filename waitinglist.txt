@@ -770,3 +770,35 @@ https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13358 可视化丰度表�
 
 https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13407 不同物种注释方法比较 微生物多样性分析基础
 
+https://sci-hub.se/https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13398 不同物种多样性分析方法ASV和OTU比较 微生物多样性分析基础
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04115-6 不同物种多样性分析方法ASV和OTU比较 微生物多样性分析基础
+
+https://www.biorxiv.org/content/10.1101/2021.03.16.435710v1.full.pdf+html metabarcoding引物评估 微生物多样性分析基础
+
+https://www.biorxiv.org/content/10.1101/2021.03.09.434692v1.full.pdf+html Nanopore扩增子分析流程 微生物多样性分析基础 已发表链接https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01141-x
+
+https://www.biorxiv.org/content/10.1101/2021.11.26.470087v1 Nanopore扩增子捕获鱼类多样性 Nanopore应用实例
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/edn3.201 水体样品保存时间对eDNA捕获率的影响 eDNA方法学
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130324 引物扩增偏好性评估 eDNA方法学
+
+https://f1000research.com/articles/10-7/v1 扩增子下游分析流程 微生物多样性分析工具
+
+https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(21)00068-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534721000689%3Fshowall%3Dtrue eRNA概念 eDNA基础
+
+https://www.nature.com/articles/s41598-021-02807-w 珊瑚修复的共生藻类响应 珊瑚共生藻
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab778/6443069 蜗牛图 数据可视化
+
+https://www.biorxiv.org/content/10.1101/2021.12.01.470722v1.full.pdf+html Nanopore测序barcode筛选 nanopore测序基础
+
+https://www.biorxiv.org/content/10.1101/2021.05.22.445213v1 CNN进行metabarcoding物种注释 微生物多样性分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.05.12.443744v1 水体3d打印采样器 eDNA方法学
+
+https://link.springer.com/epdf/10.1186/s12859-021-04180-x?sharing_token=-Pia22WZ_LfNrSU3mvlPPG_BpE1tBhCbnbw3BuzI2ROrrI-Md8o1RTJq0oCgEW1SKKHppDys0gjFGOBk0tHVBH3pf-AUvcqn88GLzc2a_s_BHJO3D5yr5YyM2xCGHtflXCGTZS83KbRRw1rh-NKEctirhA2SdxXbKLN-tTJpLgE%3D HMM过滤扩增子数据中的假基因 微生物数据分析工具
+
+https://elifesciences.org/articles/72674 病毒的基因组整合 生物学基础
+
