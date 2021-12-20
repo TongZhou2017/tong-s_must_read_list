@@ -814,3 +814,31 @@ https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11997 沉积物固氮 �
 
 https://pubmed.ncbi.nlm.nih.gov/34895057/ 环状RNA富集方法 分子生物学基础
 
+https://www.sciencedirect.com/science/article/pii/S0038071721003874 土壤原生动物多样性 多类型微生物组图谱
+
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01202-1 纤毛虫单细胞基因组多样性 纤毛虫基因组
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5036114/pdf/peerj-04-2486.pdf 痕量宏基因组文库构建方法 分子生态学方法
+
+nature.com/articles/s43705-021-00079-z.pdf 痕量宏基因组文库构建方法 分子生态学方法
+
+https://www.nature.com/articles/s41586-021-04221-8.pdf 成纤维细胞免疫募集效应 白癜风单细胞组学
+
+https://pubmed.ncbi.nlm.nih.gov/34915867/ 从基因组数据中构建蛋白质互作网络 基因组分析
+
+https://www.biorxiv.org/content/10.1101/2021.12.13.472472v1 单细胞动力学分析 单细胞组学分析工具
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/jeu.12879 全球浮游纤毛虫生态学综述 纤毛虫生物学基础
+
+https://www.biorxiv.org/content/10.1101/2021.12.15.472816v1 原核生物与古菌基因组大小与系统发育地位正相关 微生物学基础
+
+https://www.biorxiv.org/content/10.1101/2021.12.16.473024v1 基因组突变对鱼类氧气耐受的适应性 生物适应
+
+https://www.science.org/doi/10.1126/science.abe6474 跨癌症T细胞图谱 跨材料单细胞组学
+
+https://pubmed.ncbi.nlm.nih.gov/34748542/ 物种鉴定数据库构建标准化方法 微生物多样性分析工具
+
+https://www.biorxiv.org/content/10.1101/2021.12.16.473018v1 从宏基因组数据中组装病毒基因组 病毒宏基因组分析工具
+
+https://www.nature.com/articles/s41467-021-27188-6?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_NRJournals 远洋中的沿岸生物分布 海洋生物分布模式
+
