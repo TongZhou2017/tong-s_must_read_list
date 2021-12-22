@@ -842,3 +842,7 @@ https://www.biorxiv.org/content/10.1101/2021.12.16.473018v1 从宏基因组数�
 
 https://www.nature.com/articles/s41467-021-27188-6?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_NRJournals 远洋中的沿岸生物分布 海洋生物分布模式
 
+https://www.nature.com/articles/s41580-021-00407-0 生物机器学习 机器学习应用
+
+https://microbiologycommunity.nature.com/posts/when-phytoplankton-realize-that-bacteria-are-present 海洋浮游生物与菌群互作 微生物互作
+
