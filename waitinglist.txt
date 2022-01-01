@@ -846,3 +846,31 @@ https://www.nature.com/articles/s41580-021-00407-0 生物机器学习 机器学�
 
 https://microbiologycommunity.nature.com/posts/when-phytoplankton-realize-that-bacteria-are-present 海洋浮游生物与菌群互作 微生物互作
 
+https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13387 三代与二代比较真菌微生物多样性 三代扩增子
+
+https://link.springer.com/article/10.1007/s13225-018-0401-0 二次进化树构建方法 系统发育分析
+
+https://www.authorea.com/doi/full/10.22541/au.163702161.15656210 三代真核微生物多样性方法 三代扩增子
+
+https://www.researchgate.net/profile/Priscila-Chaverri/publication/340241817_Analisis_Filogenetico_de_Secuencias_ITS_Provenientes_de_Hongos_Endofitos_Utilizando_Inferencia_Bayesiana_Paralela_de_Arboles_con_Exabayes/links/5e9f54a592851c2f52ba4bfd/Analisis-Filogenetico-de-Secuencias-ITS-Provenientes-de-Hongos-Endofitos-Utilizando-Inferencia-Bayesiana-Paralela-de-Arboles-con-Exabayes.pdf 真菌ITS系统发育分析提速方法 系统发育分析
+
+https://www.tandfonline.com/doi/full/10.1080/21501203.2020.1799878 ITS2测海山真菌多样性 真菌多样性
+
+https://journals.asm.org/doi/full/10.1128/mBio.01189-18 海洋真菌分布综述 海洋真菌
+
+https://www.sciencedirect.com/science/article/pii/S1754504818302800 ASV和OTU比较分析真菌多样性 ASV比OTU
+
+https://academic.oup.com/sysbio/article/65/3/449/2468944?login=true BEAST计算实例 BEAST计算
+
+https://academic.oup.com/mbe/article/29/2/707/1028854?login=true BEAST计算实例 BEAST计算
+
+https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue#secsectitle0065 使用深度神经网络发掘抗性基因 基因识别
+
+https://www.nature.com/articles/s41592-021-01336-8 单细胞整合分析标准 单细胞分析
+
+https://www.cell.com/ajhg/fulltext/S0002-9297(21)00453-5 精子发育问题的遗传学解答 精子畸形
+
+https://journals.asm.org/doi/10.1128/mBio.02158-21?utm_source=twitter&utm_medium=social&utm_content=mBio&utm_id=falcon&utm_campaign=mBio 高通量基因扫描技术 Crisperi
+
+https://www.cell.com/molecular-cell/pdf/S1097-2765(21)01029-7.pdf#.YcWczbvyKFE.twitter 生殖问题中的环形RNA 环形RNA
+
