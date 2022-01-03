@@ -874,3 +874,35 @@ https://journals.asm.org/doi/10.1128/mBio.02158-21?utm_source=twitter&utm_medium
 
 https://www.cell.com/molecular-cell/pdf/S1097-2765(21)01029-7.pdf#.YcWczbvyKFE.twitter 生殖问题中的环形RNA 环形RNA
 
+https://www.nature.com/articles/s41467-017-01312-x LULU post-clustring
+
+https://academic.oup.com/bioinformatics/article/27/5/611/1745910 CROP 动态cut-off界定
+
+https://academic.oup.com/bioinformatics/article/34/14/2371/4913809 cut-off界值更新 cut-off
+
+https://journals.asm.org/doi/10.1128/msystems.00021-18?permanently=true SEPP将短序列map到长序列的系统发育树 短序列系统发育问题
+
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13316 ReClustOR post-clustring
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176335 dbOTU3 post-clustring
+
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-37-4-463 97%界值提出依据 cut-off
+
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-44-4-846 97%界值提出者 cut-off
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2909393/ 对complete-cluster再聚类方法 post-clustring
+
+https://academic.oup.com/nar/article/40/12/5240/2414913 BEBaC基于贝叶斯的聚类方法 聚类
+
+https://www.degruyter.com/document/doi/10.1515/sagmb-2013-0031/html BC基于贝叶斯的聚类方法 聚类
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152367/ ESPRIT-Tree基于树结构的聚类方法 聚类
+
+https://peerj.com/articles/5364/ ASV方法比较 ASV比OTU
+
+https://sci-hub.se/10.1038/s41579-018-0029-9 微生物组分析方法综述 微生物组分析方法
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6160831/?report=classic 不同pipeline对pacbio和miseq的分析差异 TGS比NGS
+
+https://www.sciencedirect.com/science/article/pii/S1754504818302800 基于真菌模拟群落比较多重pipeline方法 ASV比OTU
+
