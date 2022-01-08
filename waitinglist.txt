@@ -906,3 +906,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6160831/?report=classic 不同pipel
 
 https://www.sciencedirect.com/science/article/pii/S1754504818302800 基于真菌模拟群落比较多重pipeline方法 ASV比OTU
 
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07126-4 ASV方法比较 ASV比OTU
+
+https://pubmed.ncbi.nlm.nih.gov/33636764/#affiliation-1 厉神文章
+
+https://www.nature.com/articles/s41564-019-0605-4 原生动物单细胞线粒体基因组系统发育关系 进化
+
+https://pubmed.ncbi.nlm.nih.gov/34979272/ 尿液微生物与癌症综述 尿液
+
+https://www.nature.com/articles/s41587-021-01147-4?utm_source=dlvr.it&utm_medium=twitter nanopore快速分析工具 nanopore分析工具
+
+https://www.nature.com/articles/s41587-021-01130-z 三代宏基因组分析 宏基因组
+
