@@ -918,3 +918,17 @@ https://www.nature.com/articles/s41587-021-01147-4?utm_source=dlvr.it&utm_medium
 
 https://www.nature.com/articles/s41587-021-01130-z 三代宏基因组分析 宏基因组
 
+https://apsjournals.apsnet.org/doi/pdf/10.1094/PBIOMES-02-20-0022-R PNA设计工具 PNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/ecog.05694 基于丰度的物种分布模型综述 生态学基础
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04556-z 染色体注释R包 R可视化
+
+https://pubmed.ncbi.nlm.nih.gov/35019699/ 小鼠全长扩增子 全长扩增子
+
+https://www.nature.com/articles/s41592-021-01336-8 单细胞整合分析标准 单细胞整合
+
+https://pubmed.ncbi.nlm.nih.gov/34985990/ 单细胞整合分析工具 单细胞整合
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-30 LotuS 微生物多样性分析工具
+
