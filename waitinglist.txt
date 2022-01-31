@@ -989,3 +989,45 @@ https://www.biorxiv.org/content/10.1101/2022.01.16.476488v1.full.pdf+html 单细
 https://www.biorxiv.org/content/10.1101/2022.01.16.476537v1.full.pdf+html 宏基因组数据中的污染 宏基因组
 
 https://www.nature.com/articles/s41559-021-01606-w.epdf?sharing_token=OkQeavx77pJC3bkh-Ff9BdRgN0jAjWel9jnR3ZoTv0PRVzy7aSzgJfdu0eVZCWsnfmfIV7JSZT_zVCtX3HOjRGKufAXM2fY_smY4f79G3Li1b5Bk4a498Ey2TrI5NFVV9ih2NX25wKHBjwb23snAVW9Ldhed3BlPTR3oAuYcnwM%3D 海洋微生物昼夜代谢节律 海洋微生物代谢
+
+https://www.nature.com/articles/d41586-022-00163-x?utm_term=Autofeed&utm_campaign=nature&utm_medium=Social&utm_source=Twitter&error=cookies_not_supported&code=9208cb9e-aff6-42e9-a6df-81ddfe71351f#Echobox=1643120379 2022年重点关注的7大前沿技术 新技术
+
+https://www.science.org/doi/10.1126/science.abl7392 花粉继承植物转录信息 植物遗传
+
+https://www.biorxiv.org/content/10.1101/2021.08.27.457741v2 空间转录组整合方法比较 空间转录组
+
+https://www.biorxiv.org/content/10.1101/2022.01.25.475970v1 河流鱼无脊椎细菌eDNA eDNA
+
+https://www.science.org/doi/10.1126/science.abn7276 生物学偏见 生物学
+
+https://www.nature.com/articles/s41522-021-00263-y 微生物共现网络发现低丰度类群的作用 共现网络
+
+https://link.springer.com/article/10.1007%2Fs11356-021-18197-5 尿液内分泌干扰物 尿液
+
+https://www.nature.com/articles/s41396-022-01195-x 热液硫化细菌分布 热液
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16096?utm_sq=gypgtpv9ij&campaign=wolacceptedarticle#.YfDxvwSbGyA.twitter 温度影响的分解者真菌全球分布 真菌
+
+https://phys.org/news/2022-01-fossil-snail-shells-tool-ancient.html 贝壳分析古海洋化学 古海洋
+
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac040/6515613?login=false#.YfHFy7MLDn4.twitter 代谢组学数据质控ShinyApp 代谢组
+
+https://www.sciencedirect.com/science/article/pii/S0304389422000851 土壤原生生物与污染物互作 原生生物互作
+
+https://www.biorxiv.org/content/10.1101/2022.01.24.477608v1 引物选择对检测尿液微生物群落结构的影响 尿液
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16364#.YfC-8i0n_eI.twitter 扩增子方法与传统方法的比较综述 扩增子
+
+https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giab088/6514927?login=false 真菌和纤毛虫是牛瘤胃产甲烷主要贡献者 纤毛虫的作用
+
+https://www.geomar.de/en/research/fb3/fb3-ms/research-topics/translate-to-english-rt2-sponges-responses 海洋无脊椎动物的发育共生 微生物共生
+
+https://link.springer.com/article/10.1007/s11160-021-09692-6 刺尾鱼对珊瑚礁的功能作用 珊瑚礁
+
+https://www.biorxiv.org/content/10.1101/2022.01.24.477583v1 柱形图显著性标注 可视化
+
+https://www.nature.com/articles/s41467-021-27802-7 快速新陈代谢促进微生物在深热的海底生物圈中生存 热液
+
+https://www.frontiersin.org/articles/10.3389/fevo.2021.642774/full 机器学习生态方法 机器学习
+
+https://www.nature.com/articles/s41580-021-00447-6?utm_source=dlvr.it&utm_medium=twitter 新生转录组学揭示的lncRNA生物发生机制 lncRNA
