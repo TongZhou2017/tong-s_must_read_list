@@ -1031,3 +1031,29 @@ https://www.nature.com/articles/s41467-021-27802-7 快速新陈代谢促进微�
 https://www.frontiersin.org/articles/10.3389/fevo.2021.642774/full 机器学习生态方法 机器学习
 
 https://www.nature.com/articles/s41580-021-00447-6?utm_source=dlvr.it&utm_medium=twitter 新生转录组学揭示的lncRNA生物发生机制 lncRNA
+
+https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1 长读长宏基因组物种注释方法比较 宏基因组
+
+https://academic.oup.com/nargab/article/4/1/lqac007/6520104?login=false 宏基因组组装和分箱分析流程 宏基因组
+
+https://academic.oup.com/bib/article-abstract/22/4/bbaa222/5916940?redirectedFrom=fulltext 单细胞转录组去噪和插值方法综述 单细胞分析
+
+https://www.frontiersin.org/articles/10.3389/fmars.2022.798877/full 海洋水体宏转录组的代谢深度差异 宏转录组
+
+https://www.biorxiv.org/content/10.1101/2022.02.03.478996v1 细胞周期与细胞大小稳态 生物学
+
+https://www.science.org/doi/10.1126/science.abe7489 真核生物6mA比较 生物学
+
+https://www.science.org/doi/10.1126/sciadv.abi5884#.YfuWEwUfZWU.twitter 后生动物染色体高度保守共线性进化 生物学
+
+https://academic.oup.com/nargab/article/4/1/lqac003/6520107?login=false homopolymer的现实意义及分析工具 homopolymer
+
+https://journals.asm.org/doi/10.1128/msphere.00021-22 单细胞基因组与单细胞转录组分析白蚁共生原生动物的代谢 单细胞多组学
+
+https://www.frontiersin.org/articles/10.3389/fmars.2022.809659/full 有孔虫标签CO1优于18S barcoding
+
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12595 eDNA方法影响因素综述 eDNA
+
+https://link.springer.com/article/10.1007/s10592-015-0775-4 eDNA方法的意义综述 eDNA
+
+https://www.sciencedirect.com/science/article/pii/S0048969722006313 原生生物比细菌和真菌对污染更敏感 多类群生态分析
