@@ -1078,3 +1078,39 @@ https://www.sciencedirect.com/science/article/pii/S105579032200046X 纤毛虫形
 
 https://journals.asm.org/doi/abs/10.1128/AEM.01845-21 eDNA结论综述 eDNA
 
+https://www.nature.com/articles/s41592-022-01405-6 空间基因组测序 空间基因组 https://www.nature.com/articles/s41586-021-04217-4
+
+https://www.sciencedirect.com/science/article/pii/S2352340922001433?via%3Dihub#! 中肋骨条藻基因组数据公布 基因组
+
+https://www.biorxiv.org/content/10.1101/2022.02.10.480020v1.full.pdf+html 功能基因扩增子 功能基因扩增子
+
+https://www.biorxiv.org/content/10.1101/2022.02.10.479993v1 TWAS和GWAS综合分析 TWAS和GWAS
+
+https://www.biorxiv.org/content/10.1101/2022.02.09.479723v1.full.pdf+html 转录组差异分析方法比较 差异分析
+
+https://www.biorxiv.org/content/10.1101/2022.02.12.480198v1 使用捕获技术结合长读长测序获得结构变异疑难区信息 长读长测序
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009757 大规模数据分析的准则 大数据分析
+
+https://link.springer.com/epdf/10.1186/s12864-021-07607-0?sharing_token=L4kvakOfGgy26VlXf6YdFm_BpE1tBhCbnbw3BuzI2RNhs0zcJAZGzEhFQaNA-WxcXq-AGTeYSlJb_CeCZPunT4TkFWjdydNgSJeWScGsiLcTJtYgQQ_fyKH5sp8ExyrragiXxPmuBPyESsXLhv7qMbSxAXEsI77Ou7UQ71LEIW0%3D Nanopore宏基因组获得单contig完整细菌基因组 Nanopore
+
+https://www.frontiersin.org/articles/10.3389/fmars.2021.797112/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FMARS_XXXXXXXX_auto-dlvrit 极端干扰减少南极微生物功能冗余 南极微生物组
+
+https://www.biorxiv.org/content/10.1101/2022.02.15.480630v1 16S扩增子甲基化 甲基化扩增子
+
+https://www.biorxiv.org/content/10.1101/2022.02.12.480214v1 单细胞转录组拟时分析分解 单细胞转录组分析
+
+https://www.biorxiv.org/content/10.1101/2022.02.15.479696v1.full.pdf+html 物种特异性引物提升真菌系统发育分析效果 引物特异性
+
+https://www.pnas.org/content/119/9/e2106628119 海草床甲烷产生受古菌调控 产甲烷古菌
+
+https://www.nature.com/articles/s41467-022-28488-1#disqus_thread 全球稀有鱼类分布模式 鱼类全球分布
+
+https://www.nature.com/articles/s41592-021-01391-1 稀少细胞量样本的微流控分选新策略 微流控
+
+https://www.biorxiv.org/content/10.1101/2020.02.08.939942v4.full.pdf+html Nanopore长读长转录组 Nanopore
+
+https://www.biorxiv.org/content/10.1101/2022.02.11.480073v2 R包依赖关系分析R包 R包分析
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/pdf/wellcomeopenres-4-16574.pdf R云雨图可视化包 R可视化
+
