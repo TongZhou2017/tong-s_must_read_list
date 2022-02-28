@@ -1114,3 +1114,88 @@ https://www.biorxiv.org/content/10.1101/2022.02.11.480073v2 R包依赖关系分�
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/pdf/wellcomeopenres-4-16574.pdf R云雨图可视化包 R可视化
 
+https://www.nature.com/articles/d41586-022-00479-8?error=cookies_not_supported&code=500c59c7-be5c-41be-8402-1af2938ba3ae&utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1645637256 人类古DNA 古DNA
+
+https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0554 昆虫类群的长期丰度弱相关 长期丰度
+
+https://arxiv.org/pdf/1901.08319.pdf 语义分析R包综述 R包综述预印本
+
+https://www.biorxiv.org/content/10.1101/2022.02.21.481225v1 基因组多维数据可视化交互平台 可视化交互
+
+https://www.nature.com/articles/s41586-022-04427-4 肺微生物组调节大脑自身免疫 肺微生物组
+
+https://www.cell.com/molecular-cell/fulltext/S1097-2765(22)00098-3?rss=yes&utm_source=dlvr.it&utm_medium=twitter HiCar技术结合HiC和Chipseq优势 HiCar
+
+https://www.cell.com/one-earth/fulltext/S2590-3322(21)00729-6#%20 中国与世界城市比较 中国发展
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.285 海岸带短期eDNA变化 eDNA
+
+https://www.nature.com/articles/s41587-021-01201-1 CRISPR基因编辑应用 基因编辑
+
+https://www.nature.com/articles/s41467-022-28426-1 高通量单细胞微生物组 单细胞微生物组
+
+https://arxiv.org/abs/2202.09504 R语言教学规范 教学
+
+https://www.nature.com/articles/s42003-022-03114-4 Nanopore宏基因组bin工具 宏基因组分析工具
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.815538/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 多组学解析鸡脂肪累积与微生物的关系 微生物与宿主互作
+
+https://www.cell.com/current-biology/fulltext/S0960-9822(22)00131-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982222001312%3Fshowall%3Dtrue 人类对不同声音输入类型的神经响应特征 声音
+
+https://www.nature.com/articles/s41575-022-00581-2 微生物与炎症和代谢病综述 微生物学综述
+
+https://www.nature.com/articles/s41589-022-00970-3 CRISPRi微生物代谢产物数据库 微生物代谢产物数据库
+
+https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3941 eDNA和传统样方调查两栖动物 eDNA
+
+https://www.cell.com/trends/genetics/fulltext/S0168-9525(21)00257-2?utm_campaign=BPS%202022&utm_content=198352554&utm_medium=social&utm_source=twitter&hss_channel=tw-18477428 Nanopore表观信息分析工具综述 Nanopore
+
+https://www.biorxiv.org/content/10.1101/2021.10.16.464636v2.full.pdf+html 自动注释MYB基因家族工具 基因家族分析
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2022.782825/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCIMB_XXXXXXXX_auto-dlvrit 口腔菌群与儿童龋齿 口腔微生物组
+
+https://www.biorxiv.org/content/10.1101/2022.02.17.480861v1.full.pdf+html 贝叶斯系统发育分析方法 贝叶斯
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02566-x 从长读长宏基因组数据中组装病毒基因组并识别宿主的分析工具 宏病毒组
+
+http://www.chinagene.cn/CN/10.16288/j.yczz.20-363 scDNA-seq综述 scDNA
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323 转录组分析流程RSEM 转录组分析工具
+
+https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02936-w 转录组定量矫正分析方法比较 转录组
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0649-y 微生物基因转移分析工具 基因转移
+
+https://www.nature.com/articles/s41396-020-00876-9 珊瑚礁海绵微生物基因转移 基因转移
+
+https://pubmed.ncbi.nlm.nih.gov/29688310/ 基因家族进化分析工具 基因家族
+
+https://www.nature.com/articles/s41567-022-01506-1 空间压力限制细胞生长 细胞学基础
+
+https://www.nature.com/articles/s41587-022-01252-y tRNA编辑治疗 tRNA
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00995-7 汉族微生物组 可视化方案
+
+https://www.nature.com/articles/s42256-022-00443-1 深度学习方法降维和整合单细胞ATAC数据 深度学习
+
+https://www.nature.com/articles/s41593-022-01011-x 小鼠大脑单细胞组和空间转录组联合分析 空间转录组
+
+https://www.frontiersin.org/articles/10.3389/fmars.2021.790241/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FMARS_XXXXXXXX_auto-dlvrit 热浪对海星再生的转录水平影响 热浪
+
+https://www.sciencedirect.com/science/article/pii/S0048969721072661 Nanopore快速绝对定量分析抗生素抗性基因及功能基因 Nanopore
+
+https://elifesciences.org/articles/73971 可溶性液滴的单细胞组分析方法 单细胞组
+
+https://www.nature.com/articles/s41587-022-01210-8.epdf?sharing_token=41CzED5L9vOlsuxuEKlr1tRgN0jAjWel9jnR3ZoTv0Ps2H2W0ETtiwccv4KIzeXrYA6fB-Xw_vRpRymMEAFxlSk_BwE3lTsSnXODxmSuNiPuWdIETU-dUmjR3-s9MTr7r3aMZLY_nXPRCVc0kZbX54R-galj7WH5QKPgFqtlEok%3D 单细胞RNA数据中分析线粒体变异 单细胞组分析
+
+https://pubs.rsc.org/en/content/articlelanding/2022/np/d1np00076d 海洋天然产物综述 海洋天然产物
+
+http://ca.cs.cmu.edu/sites/default/files/subspace_pa.pdf 三维普氏分析 统计学
+
+https://www.jstor.org/stable/2984761 普氏分析远古文献综述 统计学
+
+https://www.sciencedirect.com/topics/computer-science/procrustes-analysis 普氏分析文献集合 统计学
+
+https://pubs.acs.org/doi/10.1021/acs.est.1c04566#.YhlBwlHSk00.twitter 海洋溶解有机物在水体中的结构多样性 海洋化学
+
+
