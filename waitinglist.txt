@@ -1198,4 +1198,22 @@ https://www.sciencedirect.com/topics/computer-science/procrustes-analysis 普氏
 
 https://pubs.acs.org/doi/10.1021/acs.est.1c04566#.YhlBwlHSk00.twitter 海洋溶解有机物在水体中的结构多样性 海洋化学
 
+https://www.biorxiv.org/content/10.1101/2022.02.13.480078v1.full.pdf+html Nanopore宏基因组 Nanopore
 
+https://www.researchsquare.com/article/rs-1372773/v1 生态系统关联数据库提升物种注释分辨率 物种注释
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002245 生物信息课程设置准则 生信教育
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009218 非发达国家的生信课程设置准则 生信教育
+
+https://academic.oup.com/bib/article/11/6/537/183053?login=true 生信教育的机遇与挑战综述 生信教育
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005772 生信教育综述 生信教育
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003896 生信教育 生信教育
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005620 生信教育 生信教育
+
+https://academic.oup.com/bib/article/15/6/1004/180400?login=true 罗静初生信课 生信教育
+
+https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20665 生信教育 生信教育
