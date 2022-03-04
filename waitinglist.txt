@@ -18,6 +18,12 @@ https://pubmed.ncbi.nlm.nih.gov/34555711/
 
 https://www.sciencedirect.com/science/article/pii/S0960852421012591?via%3Dihub
 
+
+
+https://www.nature.com/articles/s41587-021-01195-w 细菌在工业气体产生过程的作用 微生物反应
+
+https://www.sciencedirect.com/science/article/pii/S2666389922000010 敲除模拟的单细胞表达模式预测工具 单细胞模拟工具
+
 https://link.springer.com/article/10.1007%2Fs10123-021-00207-8
 
 https://www.nature.com/articles/s41598-021-98452-4
@@ -1217,3 +1223,101 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005620 �
 https://academic.oup.com/bib/article/15/6/1004/180400?login=true 罗静初生信课 生信教育
 
 https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20665 生信教育 生信教育
+
+https://www.cell.com/cell/fulltext/S0092-8674(21)01542-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421015427%3Fshowall%3Dtrue 基因组结构预测微生物代谢 基因组代谢预测
+
+https://www.biorxiv.org/content/10.1101/2022.02.28.482106v1.full.pdf+html 组学数据可视化在线平台 shiny
+
+https://www.cell.com/trends/microbiology/fulltext/S0966-842X(22)00035-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0966842X2200035X%3Fshowall%3Dtrue 珊瑚共生藻类基因组 珊瑚共生藻
+
+https://www.biorxiv.org/content/10.1101/2022.03.01.482454v1 自动分析神经元形态结构工具 图像识别
+
+https://www.sciencedirect.com/science/article/pii/S0043135418303373 宏基因组分箱确定植物核心微生物 宏基因组
+
+https://www.nature.com/articles/s41467-022-28499-y?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=CONR_JRNLS_AWA1_GL_SCON_SMEDA_NATUREPORTFOLIO 便携血液检测装置 生物极客
+
+https://onlinelibrary.wiley.com/doi/10.1111/gcb.16119 珊瑚礁微塑料 微塑料
+
+https://link.springer.com/book/10.1007/978-3-030-90383-1 包含原生动物的海洋微生物组 海洋生物多样性综述
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.16367 植物基因进化适应 进化
+
+https://link.springer.com/article/10.1007/s11306-022-01874-y 海洋生物代谢综述 海洋生物代谢
+
+https://www.sciencedirect.com/science/article/pii/S0308597X22000537?via%3Dihub 深海大洋区域价值与保护 海洋战略
+
+https://pubs.acs.org/doi/full/10.1021/acs.estlett.2c00050 鱼类对毒性污染的耐受差异 毒理实验
+
+https://www.nature.com/articles/s41396-022-01210-1 海洋沉积物古菌功能 海洋古菌
+
+https://www.biorxiv.org/content/10.1101/2022.03.02.482680v1 尿液大肠杆菌 尿液
+
+https://pubmed.ncbi.nlm.nih.gov/35238917/ 眼表16S扩增子测序 微生物多样性图谱
+
+https://pubmed.ncbi.nlm.nih.gov/35239797/ 南极冰川植物分子多样性 eDNA
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac132/6541627?login=false#.YiEEfYRVHWo.twitter 多组学批次效应矫正R包 批次效应
+
+https://www.sciencedirect.com/science/article/pii/S0048969722011925?via%3Dihub 遥感分析热浪与珊瑚礁白化 海洋遥感生态
+
+https://pubmed.ncbi.nlm.nih.gov/35185949/ 贝叶斯方法评估植物多基因标签 metabarcoding
+
+https://rd.springer.com/article/10.1186/s13213-022-01667-7 深海高盐缺氧环境微生物组 微生物多样性图谱
+
+https://www.nature.com/articles/s41580-022-00457-y 转座因子在哺乳动物转录调控中的作用 转录调控
+
+https://www.nature.com/articles/s43247-022-00356-2#disqus_thread 火灾后微生物组的生态恢复贡献 微生物对环境的改造
+
+https://www.nature.com/articles/s41591-022-01695-5 微生物组人类免疫 微生物免疫
+
+https://elifesciences.org/articles/71994 bulkRNA计算方法不适合癌症单细胞RNA数据 单细胞计算方法
+
+https://www.biorxiv.org/content/10.1101/2022.01.23.477426v1 单细胞分析网络传播方法进行功能映射 单细胞分析方法
+
+https://www.int-res.com/abstracts/ame/v88/p61-79/ 季节性缺氧期间温带河口的原核真核古菌微生物群落 微生物多样性图谱
+
+https://www.nature.com/articles/s43588-022-00201-8 长读长测序比对加速版本 长序列比对工具
+
+https://www.nature.com/articles/s42255-022-00531-x 胰腺单细胞多组学解释一型糖尿病新细胞状态 单细胞多组学
+
+https://www.nature.com/articles/s41579-022-00695-z.epdf?sharing_token=zKlsAsTuRJHA82XfEse509RgN0jAjWel9jnR3ZoTv0PkPNkytQPPklIQBUdmpMemo8jymWoU7bOBSbGWnZv91h1NWS322Wz9OvPsPAMUmP0xZigpb2YiSVG8qub0ehnS9VqZQnR4Yv119iTLOdkTbLxK-Xh6G68XS72XK3fnuAg%3D 土壤微生物组综述 土壤微生物组
+
+https://www.biorxiv.org/content/10.1101/2022.02.24.481684v1.full.pdf+html 单细胞多组学整合 单细胞多组学分析
+
+https://www.biorxiv.org/content/10.1101/2022.02.25.481923v1 宏基因组图算法分箱 宏基因组
+
+https://www.nature.com/articles/s41587-022-01220-6 长读长序列组装基因组新方法 基因组组装
+
+https://www.nature.com/articles/s41580-022-00466-x 单细胞分析中的深度学习方法综述 单细胞分析方法
+
+https://www.nature.com/articles/s41592-022-01399-1 大片段DNA靶向插入方法 分子实验方法
+
+https://www.nature.com/articles/s41582-022-00633-w?utm_source=dlvr.it&utm_medium=twitter 单细胞和eQTL及GWAS联合分析综述 多组学分析方法
+
+https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-022-00262-6 微生物基因组中驯化逆转录元件的生态进化意义综述 基因组
+
+https://www.biorxiv.org/content/10.1101/2022.02.25.479563v1 小样本量GWAS分析方法 GWAS
+
+https://www.biorxiv.org/content/10.1101/2022.02.26.482099v1 快速多序列比对方法 序列比对
+
+https://phytokeys.pensoft.net/article/72350/ 化石叶片分析 叶片结构
+
+https://www.biorxiv.org/content/10.1101/2022.02.26.482074v1 PacBio表观修饰测序 三代表观组
+
+https://www.biorxiv.org/content/10.1101/2022.02.23.481646v1 转录组shiny分析工具 shiny
+
+https://www.biorxiv.org/content/10.1101/2022.02.26.481856v1 eDNA揭示单倍型变异 eDNA
+
+https://www.nature.com/articles/s41587-021-01195-w 细菌在工业气体产生过程的作用 微生物反应
+
+https://www.sciencedirect.com/science/article/pii/S2666389922000010 敲除模拟的单细胞表达模式预测工具 单细胞模拟工具
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00900-2 微生物物种注释工具 微生物组分析工具
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02627-9 Chipseq和ATACseq中高变信号分析 染色体开放结构分析
+
+https://www.nature.com/articles/s41467-020-19015-1 bulk去卷积分析benchmark 去卷积
+
+https://pubmed.ncbi.nlm.nih.gov/30529883/ 高巧克力摄入的代谢影响 巧克力
+
+
