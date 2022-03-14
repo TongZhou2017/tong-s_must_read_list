@@ -1320,4 +1320,136 @@ https://www.nature.com/articles/s41467-020-19015-1 bulk去卷积分析benchmark 
 
 https://pubmed.ncbi.nlm.nih.gov/30529883/ 高巧克力摄入的代谢影响 巧克力
 
+https://www.biorxiv.org/content/10.1101/2022.03.06.483195v1 从功能富集分析中识别和可视化高阶分子表型的多功能工具 多组学功能能富集分析工具
+
+https://www.science.org/doi/10.1126/sciadv.abm5386 Nanopore识别STR简单重复序列 Nanopore
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/jvs.12698 loss和gain计算 生态学基础
+
+https://www.biorxiv.org/content/10.1101/2022.03.08.483491v1 QTL和GWAS在线分析工具 QTL和GWAS
+
+https://www.science.org/doi/10.1126/sciadv.abm4950 斗鱼基因组的性别体色鳍形决定机制 基因组
+
+https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18016 植物微生物组互作综述 植物微生物组
+
+https://www.nature.com/articles/s43705-022-00106-7.epdf?sharing_token=8od8nppz7TvptH6SS5C9ndRgN0jAjWel9jnR3ZoTv0MbAFs_FNWFxLuWn2hzxbEiveZMq6wUWFAo9eSTs_7OSV4H7hPGm9CR5SbsMoG4An1jWRXCPw18qoirk-Ug4VWKL9pAb0ejJdifqTOwMqtE0NWfhN0dYj-QREQ5ZJy2HRg%3D 用时间序列数据分析生态网路 时间序列
+
+https://www.cell.com/trends/plant-science/fulltext/S1360-1385(22)00032-2?rss=yes&utm_source=dlvr.it&utm_medium=twitter 植物微生物组综述 植物微生物组
+
+https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00087-7?dgcid=raven_jbs_etoc_email#.Yim28yAkio0.twitter 海草基因转移与人类肠道菌群 基因转移
+
+https://www.biorxiv.org/content/10.1101/2022.03.07.483343v1 扩增子和宏基因组DNA提取方法比较 核酸提取
+
+https://www.science.org/doi/10.1126/science.abi6983 活体细胞成像蛋白质追踪 活细胞成像
+
+https://www.nature.com/articles/s41592-022-01409-2 空间转录组发展综述 空间转录组
+
+https://www.nature.com/articles/s41586-022-04506-6 基因表达与DNA进化 生物学基础
+
+https://academic.oup.com/bioinformatics/article/38/4/1162/6430104 宏基因组数据中识别SNV和亚种的分析工具 宏基因组
+
+https://academic.oup.com/bioinformatics/article/38/4/1133/6428657 Nanopore实时分析工具 Nanopore
+
+https://academic.oup.com/bioinformatics/article/38/4/918/6430102 高精度多序列比对算法 多序列比对
+
+https://academic.oup.com/bioinformatics/article/38/4/900/6443074 多组学数据的矩阵分解 多组学数据分析方法
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1463/6448224?redirectedFrom=fulltext 树图可视化R包 R可视化
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1458/6462185?redirectedFrom=fulltext RNA2.5D可视化 RNA结构可视化
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1403/6460803?redirectedFrom=fulltext 去卷积评估单个样本的亚型特异性表达 去卷积
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1378/6454942?redirectedFrom=fulltext 微生物组和代谢组关联分析在线工具 微生物代谢
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1304/6454945?redirectedFrom=fulltext 单细胞转录组模拟工具 模拟
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1295/6449435?redirectedFrom=fulltext 基于深度学习的单细胞转录组批次效应去除工具 批次效应
+
+https://academic.oup.com/bioinformatics/article/38/5/1235/6413628 Nanopore数据中识别DNA修饰的深度学习工具 Nanopore
+
+https://academic.oup.com/bioinformatics/article-abstract/38/5/1216/6462188?redirectedFrom=fulltext 从宏基因组数据中识别病毒序列的深度学习工具 序列识别
+
+https://academic.oup.com/bioinformatics/article-abstract/38/6/1770/6497784?redirectedFrom=fulltext MCMC算法应用 MCMC
+
+https://academic.oup.com/bioinformatics/article/38/6/1741/6486526 系统发育树数据库 系统发育
+
+https://academic.oup.com/bioinformatics/article-abstract/38/6/1732/6482741?redirectedFrom=fulltext 单细胞DNA突变聚类工具 单细胞DNA
+
+https://academic.oup.com/bioinformatics/article/38/6/1639/6496905 微生物相关网络分类工具 微生物网络分析
+
+https://academic.oup.com/bioinformatics/article-abstract/38/6/1560/6478271?redirectedFrom=fulltext 基于图结构的基因集分析R包 基因集分析
+
+https://academic.oup.com/bioinformatics/article/38/6/1497/6499262 CRAM数据格式优势 生信数据格式
+
+https://academic.oup.com/bioinformatics/article/38/1/299/6321456 参考序列获取统一端口工具 API
+
+https://academic.oup.com/bioinformatics/article-abstract/38/1/286/6320063?redirectedFrom=fulltext 大规模微生物组差异比较分析R包 差异分析
+
+https://academic.oup.com/bioinformatics/article/38/1/270/6321448 核糖体RNA基因物种注释工具 物种注释
+
+https://academic.oup.com/bioinformatics/article/38/1/267/6318385 扩增子聚类工具 Swarm
+
+https://academic.oup.com/bioinformatics/article-abstract/38/1/257/6325502?redirectedFrom=fulltext Nanopore的DNA和RNA修饰交互式数据分析工具 Nanopore
+
+https://academic.oup.com/bioinformatics/article/38/1/252/6318389 bulk和单细胞CUT&TAG数据分析流程 CUT&TAG
+
+https://academic.oup.com/bioinformatics/article-abstract/38/1/179/6355579?redirectedFrom=fulltext 多组学整合 多组学整合
+
+https://academic.oup.com/bioinformatics/article/38/1/164/6367764 单细胞转录组标准化工具 标准化
+
+https://academic.oup.com/bioinformatics/article-abstract/38/1/65/6349220?redirectedFrom=fulltext 共进化距离预测 共进化
+
+https://academic.oup.com/bioinformatics/article-abstract/38/1/16/6355577?redirectedFrom=fulltext 微生物组的二元中介模型R包 中介模型
+
+https://academic.oup.com/bioinformatics/article-abstract/38/2/577/6374493?redirectedFrom=fulltext 多组学数据整合R包 多组学整合
+
+https://academic.oup.com/bioinformatics/article/38/2/568/6357695 液相色谱质谱数据分析R包 液相色谱质谱分析
+
+https://academic.oup.com/bioinformatics/article-abstract/38/2/562/6352491?redirectedFrom=fulltext 生物数据交互式可视化库 可视化库
+
+https://academic.oup.com/bioinformatics/article-abstract/38/2/559/6359813?redirectedFrom=fulltext eQTL交互式浏览器 eQTL
+
+https://academic.oup.com/bioinformatics/article-abstract/38/2/351/6384565?redirectedFrom=fulltext 长读长数据重定向压缩工具 fastq数据压缩工具
+
+https://academic.oup.com/bioinformatics/article/38/2/344/6375939 基于深度学习的真核生物序列识别工具 序列识别
+
+https://academic.oup.com/bioinformatics/article-abstract/38/2/335/6370694?redirectedFrom=fulltext fastq数据压缩索引 fastq索引
+
+https://academic.oup.com/bioinformatics/article/38/2/325/6382301 基于机器学习方法预测全基因组数据中的抗生素抗性基因 抗生素抗性基因 one-hot
+
+https://academic.oup.com/bioinformatics/article/38/3/878/6408434 用于机器学习方法基准分析的开源数据集 数据集
+
+https://academic.oup.com/bioinformatics/article-abstract/38/3/841/6390795?redirectedFrom=fulltext 基于基因组数据识别ncRNA的R包 ncRNA
+
+https://academic.oup.com/bioinformatics/article/38/3/834/6377776 单细胞ATAC交互式可视化分析工具 单细胞ATAC分析
+
+https://academic.oup.com/bioinformatics/article-abstract/38/3/738/6384568?redirectedFrom=fulltext 单细胞转录组多参考数据库细胞类型 细胞类型注释
+
+https://academic.oup.com/bioinformatics/article/38/4/1168/6409851 代谢组学数据分析R包 代谢组数据分析工具
+
+https://academic.oup.com/bioinformatics/article-abstract/38/4/1165/6409845?redirectedFrom=fulltext 多组学网路分析R包 网络分析
+
+https://www.biorxiv.org/content/10.1101/2022.03.10.483419v1 基于随机森林方法的序列变异识别工具 随机森林
+
+https://www.biorxiv.org/content/10.1101/2022.03.10.483845v1 多组学数据可视化分析浏览工具 多组学
+
+https://peerj.com/articles/5553/ 多组学时代的生物医学挑战综述 多组学
+
+https://www.biorxiv.org/content/10.1101/2022.03.12.483776v1 Nanopore藻华eDNA Nanopore
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009859 生命科学数据集在线可视化及分享模板 在线平台
+
+https://www.biorxiv.org/content/10.1101/2022.03.04.483022v1 群落共存与高阶互动 生态学
+
+https://www.nature.com/articles/s41396-022-01202-1 深海微生物多样性起源 深海微生物 可视化纳入开发
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001536 微生物组数据主要来源于高度发达国家荟萃分析 微生物组数据
+
+https://www.biorxiv.org/content/10.1101/2022.03.07.483203v1 海洋鱼类微生物组 RobKnight
+
+https://www.biorxiv.org/content/10.1101/2022.03.07.482835v1 宏基因组数据的原核和病毒类群识别 序列识别
+
+https://www.biorxiv.org/content/10.1101/2022.01.29.478248v1 抗生素抗性基因全球多环境荟萃分析 抗生素抗性基因
+
 
