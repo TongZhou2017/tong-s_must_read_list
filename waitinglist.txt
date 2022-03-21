@@ -1452,4 +1452,64 @@ https://www.biorxiv.org/content/10.1101/2022.03.07.482835v1 宏基因组数据�
 
 https://www.biorxiv.org/content/10.1101/2022.01.29.478248v1 抗生素抗性基因全球多环境荟萃分析 抗生素抗性基因
 
+https://www.researchgate.net/publication/262930140_Distinct_signatures_of_host-microbial_meta-metabolome_and_gut_microbiome_in_two_C57BL6_strains_under_high-fat_diet FT-ICR-MS实例 FT-ICR-MS
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01231-0 宏基因组细菌病毒分析和可视化流程 宏基因组
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02648-4 大规模样本的差异分析方法 差异分析
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02506-9 两组高通量数据不基于显著性的FDR分析 比较分析
+
+https://www.nature.com/articles/d41586-022-00712-4 非洲十万物种基因组多样性项目 基因组
+
+https://www.biorxiv.org/content/10.1101/2022.03.11.483632v2 岛屿人类活动与物种灭绝的关系 濒危物种
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2336-6 快速mapping比对工具 mapping
+
+https://www.sciencedirect.com/science/article/pii/S0966842X2200035X?dgcid=rss_sd_all 基于基因组的珊瑚共生藻分类 珊瑚共生藻
+
+https://mbmg.pensoft.net/article/36236/list/11/ 宏基因组数据中的点突变识别工具 宏基因组
+
+https://www.nature.com/articles/s41467-022-29161-3.epdf?sharing_token=_9uKS41dpHkYouczBm1Mz9RgN0jAjWel9jnR3ZoTv0N9zreMSIETiJVG2-VvdkaqGHbYRXJilS3BUo_lXOpy_UiL9Z7x9SytdSW_TEth6t39JEP9RjIqiw9eXB6AM8iBQrE_4I1VuraD9msDCnjfToGxsGPL7AnllVM7of-iqrU%3D 全球湿地 N2O 排放背后的土壤微生物组的结构和功能 土壤
+
+https://pubmed.ncbi.nlm.nih.gov/35286567/ 婴儿尿路感染的指示微生物组 尿
+
+https://www.nature.com/articles/s41592-022-01408-3 单细胞转录组count新工具 单细胞组学
+
+https://www.nature.com/articles/s41587-022-01224-2 合成内含子的癌细胞靶向性 癌症靶向治疗
+
+https://onlinelibrary.wiley.com/doi/10.1111/eva.13332 鱼类高温转录组表达差异 全球变暖
+
+https://www.biorxiv.org/content/10.1101/2022.03.11.481421v1 空间转录组数据库 空间转录组
+
+https://www.biorxiv.org/content/10.1101/2022.03.13.483965v1 科学数据分析命令行工具 数据分析工具
+
+https://www.biorxiv.org/content/10.1101/2022.03.09.483468v1 真核生物泛基因组注释工具 泛基因组 从上到下桑吉图
+
+https://www.nature.com/articles/s41467-022-28867-8 混合营养原生生物产生的粘液球影响海洋碳循环 原生生物碳循环 Tara
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.290 昆虫eDNA eDNA
+
+https://www.researchgate.net/publication/359229902_A_consensus_protocol_for_the_recovery_of_mercury_methylation_genes_from_metagenomes 宏基因组中识别汞甲基化基因 宏基因组
+
+https://www.biorxiv.org/content/10.1101/2022.02.26.482115v1 老化脊椎动物大脑中具有朊病毒样和相分离特性的蛋白质聚集体 衰老
+
+https://www.biorxiv.org/content/10.1101/2022.02.26.482120v1 衰老脊椎动物蛋白质聚集和质量控制的组织特异性景观 衰老
+
+https://www.biorxiv.org/content/10.1101/2022.03.11.484050v1 河流沉积物中的细菌和病毒宏蛋白组解析碳氮循环机制 宏蛋白组
+
+https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac048/6548376?login=false 矩阵一致性聚类分析方法 聚类
+
+https://www.sciencedirect.com/science/article/pii/S0038071721003461 随机森林通过微生物组预测土壤健康状态 随机森林
+
+https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00858-1.pdf 随机森林通过微生物组预测土壤理化指标和质量 随机森林
+
+https://www.nature.com/articles/s43705-022-00094-8.pdf 根际微生物组移植 植物微生物组
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7784920/pdf/41396_2020_Article_720.pdf 实验设计的基于微生物组预测植物健康状态的随机森林实现 随机森林
+
+https://sci-hub.se/https://www.science.org/doi/10.1126/science.aad2646 死亡环境暴露微生物组 尸体
+
+https://academic.oup.com/gigascience/article/10/11/giab074/6431715 全基因组CNV分析工具 CNV
+
 
