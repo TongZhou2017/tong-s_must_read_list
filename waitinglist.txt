@@ -914,7 +914,7 @@ https://www.sciencedirect.com/science/article/pii/S1754504818302800 基于真菌
 
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07126-4 ASV方法比较 ASV比OTU
 
-https://pubmed.ncbi.nlm.nih.gov/33636764/#affiliation-1 厉神文章
+https://pubmed.ncbi.nlm.nih.gov/33636764/#affiliation-1 采样过程对微生物多样性评估的影响 厉神文章
 
 https://www.nature.com/articles/s41564-019-0605-4 原生动物单细胞线粒体基因组系统发育关系 进化
 
@@ -1511,5 +1511,79 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7784920/pdf/41396_2020_Article_720.
 https://sci-hub.se/https://www.science.org/doi/10.1126/science.aad2646 死亡环境暴露微生物组 尸体
 
 https://academic.oup.com/gigascience/article/10/11/giab074/6431715 全基因组CNV分析工具 CNV
+
+https://www.cambridge.org/core/journals/quantitative-plant-biology/article/plant-genome-sequence-assembly-in-the-era-of-long-reads-progress-challenges-and-future-directions/3932B956CC468D07D3E14525FEAFEC3E 长读长测序对植物基因组学发展的作用 长读长
+
+https://www.biorxiv.org/content/10.1101/2022.03.21.485019v1.full.pdf+html 水生异养生物的分类和功能多样性由溶解有机物化学多样性维持 宏基因组
+
+https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00032-5 通过结构变异和拷贝数的综合分析解读癌症基因组 基因组
+
+https://www.biorxiv.org/content/10.1101/2022.03.14.484134v1 基于PCA的tSNE和UMAP降维方法的缺点及提升方法 降维
+
+https://www.biorxiv.org/content/10.1101/2022.03.16.484646v1 系统发育树进化历史分析R包shiftPlot 系统发育分析
+
+https://www.biorxiv.org/content/10.1101/2022.03.23.485478v1 湖泊长读长宏基因组 Nanopore
+
+https://www.biorxiv.org/content/10.1101/2020.06.30.180687v2 真核生物多组学数据库 瑞典FB团队
+
+https://www.nature.com/articles/s41586-022-04518-2 人和小鼠白色脂肪组织单细胞图谱 单细胞组
+
+https://www.nature.com/articles/s42003-022-03216-z 使用eDNA在河流集水区发现的多营养生物多样性和食物网特征的时空模式 eDNA
+
+https://www.biorxiv.org/content/10.1101/2022.03.21.485232v1.full.pdf+html 单细胞组学实验设计及组间分析 比较分析
+
+https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1 单细胞多组学数据整合 数据整合
+
+https://pubmed.ncbi.nlm.nih.gov/35323032/ 基于Nanopore的哮喘微生物宏基因组测序 Nanopore
+
+https://www.nature.com/articles/s42255-022-00549-1 婴儿和幼儿体重指数遗传结构的表征 贯穿组学
+
+https://www.nature.com/articles/s41587-022-01250-0 scCUT&Tag细胞异质性 scCUT&TAG
+
+https://www.nature.com/articles/s42003-022-03195-1 热泉沉积物宏基因组 宏基因组
+
+https://pubmed.ncbi.nlm.nih.gov/35325312/ 基于宏基因组比较不同碳源的微生物代谢及物种差异 宏基因组
+
+https://pubmed.ncbi.nlm.nih.gov/35325031/ 基于深度学习的不依赖于比对的生化网络识别分类 机器学习
+
+https://pubmed.ncbi.nlm.nih.gov/35324742/ 基于表层土壤宏基因组数据发掘土壤健康的指征微生物 宏基因组
+
+https://www.cell.com/cell/fulltext/S0092-8674(20)31155-7 三维基因组学综述 基因组学
+
+https://pubmed.ncbi.nlm.nih.gov/35326803/ 抗生素抗性基因数据库比较综述 ARG
+
+https://pubmed.ncbi.nlm.nih.gov/35327556/ 测序深度比DNA提取方法更影响土壤细菌多样性评估 方法比较
+
+https://pubmed.ncbi.nlm.nih.gov/35330728/ 宏基因组物种和功能注释流程 宏基因组
+
+https://www.biorxiv.org/content/10.1101/2022.03.25.485728v1 抗体长读长测序 Nanpore
+
+https://onlinelibrary.wiley.com/doi/10.1002/ece3.8676 基于长读长数据的不同序列聚类方法比较 OTUvsASV *
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ede.12399 基于图像识别的斑马鱼骨骼发育分析 普氏分析
+
+https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18037 植物种子微生物组 微生物图谱
+
+https://arxiv.org/abs/2202.01456 新无监督聚类算法 机器学习
+
+https://www.nature.com/articles/s41598-022-08576-4 Nanopore全基因组低覆盖度检测结构变异 Nanopore
+
+https://onlinelibrary.wiley.com/doi/10.1002/mbo3.977 基于qPCR的16S绝对定量宏条形码 绝对定量
+
+https://www.nature.com/articles/s42003-022-03194-2 细菌GWAS分析方法 GWAS
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC29860/ 数据库综述 数据库
+
+https://www.researchgate.net/publication/349527491_Selective_Sweeps_Uncovering_the_Genetic_Basis_of_Horn_and_Adaptability_Traits_on_Fine-Wool_Sheep_in_China FST分析实例 群体遗传
+
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01079-0/figures/3 FST分析实例 群体遗传
+
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08298-x/figures/6 FST分析实例 群体遗传
+
+https://www.researchgate.net/publication/341893454_Adaptive_evolution_of_low-salinity_tolerance_and_hypoosmotic_regulation_in_a_euryhaline_teleost_Takifugu_obscurus FST分析实例 群体遗传
+
+https://www.researchgate.net/publication/349527491_Selective_Sweeps_Uncovering_the_Genetic_Basis_of_Horn_and_Adaptability_Traits_on_Fine-Wool_Sheep_in_China FST分析实例 群体遗传
+
+https://www.nature.com/articles/s41588-021-00968-y 孟德尔随机分析肠道微生物组与血液代谢的关联 机器学习
 
 
