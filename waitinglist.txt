@@ -1586,4 +1586,48 @@ https://www.researchgate.net/publication/349527491_Selective_Sweeps_Uncovering_t
 
 https://www.nature.com/articles/s41588-021-00968-y 孟德尔随机分析肠道微生物组与血液代谢的关联 机器学习
 
+https://www.nature.com/articles/s41598-019-39576-6 火山热泉微生物宏基因组 宏基因组
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01085-y 宏基因组宏转录组宏蛋白组解析婴儿微生物组 宏基因组
+
+https://academic.oup.com/femsec/article/96/3/fiaa016/5721238?login=false 宏转录组揭示木灰在的农业和森林土壤中的作用 宏转录组
+
+https://www.nature.com/articles/s41586-018-0386-6 全球表土微生物组的结构和功能 土壤微生物组
+
+https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.18051 全球变化下的山地微生物组和生态系统功能综述 土壤微生物组
+
+https://www.biorxiv.org/content/10.1101/2022.03.29.486285v1 多重信号与环境微生物形态与理化的关联 拉曼
+
+https://www.biorxiv.org/content/10.1101/2022.03.04.482758v1 一种稳定的多样本单细胞组学差异分析方法 差异分析
+
+https://www.nature.com/articles/s41375-022-01547-8 转录组大尺度拷贝数变异分析方法 CNV
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.297 eDNA揭示栖息地和潮汐对近岸鱼类的影响 eDNA
+
+https://www.nature.com/articles/s43705-022-00116-5#citeas 硅藻内代谢组成分的生长阶段相关变化为细菌异养奠定了基础 菌藻共生
+
+https://www.biorxiv.org/content/10.1101/2022.03.29.486219v1 在多序列比对上训练的蛋白质语言模型学习系统发育关系 机器学习
+
+https://link.springer.com/article/10.1186/s40168-021-01138-2 疾病引起的植物微生物组组装和功能适应变化 宏基因组
+
+https://www.nature.com/articles/s41587-022-01262-w 单细胞测序专利 单细胞组学
+
+https://www.biorxiv.org/content/10.1101/2022.03.30.486407v1 CRISPRi筛选提升细菌酶产量 CRISPRi
+
+https://www.biorxiv.org/content/10.1101/2022.03.30.486415v1 宏转录组差异分析提升方法 差异分析
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009823 生信软件开发工作流程原则 十项原则
+
+https://www.mdpi.com/1424-2818/14/4/255 地质和古生态背景下企鹅的进化适应与扩散模式 进化
+
+https://www.nature.com/articles/s41396-022-01225-8.epdf?sharing_token=CVV8y8lpPiEbFYQVNu0kz9RgN0jAjWel9jnR3ZoTv0PH-RMz44LiA9bzc7qYUc6rGXAIfmx_h4HscXzc4HwO8DUPB78XS26qJQ8VkcPQXl82550E_eyC_wBKYIxgxCgIrzoIkyU_A_GSBPFuWHTtJcgxvLVgercz7_zGKP4uNQE%3D 百万年土壤发育后抗生素抗性基因的跨生物群落衰弱 ARG
+
+https://www.mdpi.com/2223-7747/9/4/439/htm 植物序列比对与变异分析方法比较 benchmark
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2019.01914/full 宏转录组解释长期变暖和干燥下土壤真菌的细胞代谢资源分配 宏转录组
+
+https://www.sciencedirect.com/science/article/pii/S2001037022000903?via%3Dihub 用于KEGG模块评估和微生物基因组注释扩展的python工具 通路分析
+
+https://journals.asm.org/doi/10.1128/mra.01065-21 热泉沉积物宏基因组 宏基因组
+
 
