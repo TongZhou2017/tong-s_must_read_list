@@ -1630,4 +1630,16 @@ https://www.sciencedirect.com/science/article/pii/S2001037022000903?via%3Dihub �
 
 https://journals.asm.org/doi/10.1128/mra.01065-21 热泉沉积物宏基因组 宏基因组
 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819 数据初始分析原则 十项原则
+
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac143/6550058?redirectedFrom=fulltext&login=false 单细胞贝叶斯聚类 聚类
+
+https://www.biorxiv.org/content/10.1101/2022.03.28.486050v1 转录组数据可视化R包 转录组
+
+https://pubmed.ncbi.nlm.nih.gov/35378187/ 河流菌藻多样性 菌藻共生
+
+https://www.biorxiv.org/content/10.1101/2022.04.04.487014v1 Nanopore保守序列分析工具 Nanopore
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.16453#.YkqPsqMyBj8.twitter 潮间带沙滩三域微生物组 海洋沉积物
+
 
