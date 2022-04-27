@@ -1642,4 +1642,12 @@ https://www.biorxiv.org/content/10.1101/2022.04.04.487014v1 Nanopore保守序列
 
 https://onlinelibrary.wiley.com/doi/10.1111/mec.16453#.YkqPsqMyBj8.twitter 潮间带沙滩三域微生物组 海洋沉积物
 
+https://www.nature.com/articles/s41592-022-01431-4 宏基因组多步骤方法比较 宏基因组 必读
 
+https://www.biorxiv.org/content/10.1101/2021.01.18.427188v1 基于基因组合转录组预测代谢组 代谢组
+
+https://academic.oup.com/bioinformatics/article/35/24/5303/5539862 基因组结构比较可视化工具 比较基因组学
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040155 细菌蛋白糖基化预测工具 糖基化
+
+https://www.nature.com/articles/srep34595 基于结合结构特征的蛋白质糖基化比对工具 糖基化
