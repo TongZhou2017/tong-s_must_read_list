@@ -1651,3 +1651,47 @@ https://academic.oup.com/bioinformatics/article/35/24/5303/5539862 基因组结�
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040155 细菌蛋白糖基化预测工具 糖基化
 
 https://www.nature.com/articles/srep34595 基于结合结构特征的蛋白质糖基化比对工具 糖基化
+
+https://www.nature.com/articles/s41586-022-04649-6 单细胞转录组和代谢组与结直肠癌 单细胞代谢 配色美翻
+
+https://www.biorxiv.org/content/10.1101/2022.04.25.489326v1 真核微生物宏转录组组装及分析流程 宏转录组 Tara
+
+https://www.nature.com/articles/s41596-022-00692-9 ATAC-seq实验与分析流程 流程
+
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/dta.3274 尿液质谱检测罂粟籽食用情况 尿液
+
+https://www.biorxiv.org/content/10.1101/2022.04.26.489553v1 物种注释数据库对宏基因组物种注释准确度的影响 宏基因组 种水平注释准确度
+
+https://www.biorxiv.org/content/10.1101/2022.04.19.488738v1?rss=1 GWAS分析工具 GWAS FST种群遗传
+
+https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00047-7#secsectitle0035 Tara真光层真核浮游生物宏基因组 Tara
+
+https://www.sciencedirect.com/science/article/pii/S0038071722001316?via%3Dihub 多类群对环境理化响应 生态位分化
+
+https://www.biorxiv.org/content/10.1101/2022.04.26.489591v1 从宏基因组数据中组装MAG的方法 MAG
+
+https://www.nature.com/articles/s41586-022-04788-w 陆地多类群对全球变化的响应 全球变化
+
+https://www.nature.com/articles/s41592-022-01478-3 三代测序宏基因组组装 宏基因组
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226 网络稳定性分析方法 网络分析
+
+https://arxiv.org/pdf/1605.07072.pdf 网络分析方法 网络分析
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455996/ 扩增子分析工具 微生物多样性分析方法
+
+https://www.biomedcentral.com/epdf/10.1186/s40793-022-00417-1?sharing_token=ef2TJlDF7fJ0DOK6Z0LRPG_BpE1tBhCbnbw3BuzI2RPHzWAISa9SekfECptziSKvDjdC5mt9tJUxHC-OEOHA_40LTXwbHro7RbcuHczrBu2fsXbbM35E_tLzAUwoHiA4Zc6wQt_Cpqg5kDB6wFz9k_3KOXJZGt5EXSEyn6XB5Xs%3D 海洋核心微生物组长期特征 多类型微生物组
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13623 三代测序与二代测序在真核微生物多样性的应用比较 三代测序 *
+
+https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1 eQTL和GWAS联合分析 eQTL和GWAS
+
+https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-112921-123710?journalCode=genom lncRNA综述 lncRNA
+
+https://www.nature.com/articles/s41592-022-01431-4 宏基因组分析方法比较 宏基因组
+
+https://journals.asm.org/doi/10.1128/mbio.00588-22?utm_source=twitter&utm_medium=social&utm_content=ASM&utm_id=falcon&utm_campaign=mBio 病毒全球多样性 宏基因组
+
+https://www.sciencedirect.com/science/article/pii/S0025326X22003836 海水中塑料定植微生物 多类型微生物组
+
+
