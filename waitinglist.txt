@@ -1694,4 +1694,22 @@ https://journals.asm.org/doi/10.1128/mbio.00588-22?utm_source=twitter&utm_medium
 
 https://www.sciencedirect.com/science/article/pii/S0025326X22003836 海水中塑料定植微生物 多类型微生物组
 
+https://www.nature.com/articles/s41564-022-01138-4 人工合成分泌物阻止微生物组消耗 微生物组
+
+https://www.nature.com/articles/s41587-022-01321-2.epdf?sharing_token=jKmYf2BwUYjYQqdAPLMEmtRgN0jAjWel9jnR3ZoTv0OVv0GSXQpNLlrFDVrZSHU44vW1Y2R1lhcGPzde48MAyF6vpf8WRdr8IBhgH-t8FWYVDyXjDjwuB5cM_Z8YmWvkIyZMwRGw98L_XG6Rz__PKAQN6vYBGH2Kg4AX0cJDvZc%3D 空间单细胞蛋白质组学 单细胞组学
+
+https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00025-8#.Yow1rk3W_-A.twitter 极端环境下真菌的生态作用综述 真菌
+
+https://www.nature.com/articles/s41396-022-01215-w 寡营养海域叶绿素最大层中蓝藻铁元素来源 海洋微生物物质循环 *
+
+https://royalsocietypublishing.org/doi/10.1098/rspb.2021.2702 动物线虫组 线虫组
+
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010220 细菌和真菌基因组大小分布与进化历史有关 基因组
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.16539 海洋原生生物群落季节动力学 海洋原生生物
+
+https://www.biorxiv.org/content/10.1101/2022.05.21.492932v1 长读长比对算法原理比较 三代测序
+
+https://www.annualreviews.org/doi/abs/10.1146/annurev-arplant-071921-100530 绿藻进化 基因组
+
 
