@@ -1712,4 +1712,12 @@ https://www.biorxiv.org/content/10.1101/2022.05.21.492932v1 长读长比对算�
 
 https://www.annualreviews.org/doi/abs/10.1146/annurev-arplant-071921-100530 绿藻进化 基因组
 
+https://www.nature.com/articles/s43247-022-00454-1 河流结构分析 河流叶脉道路根系图形计算
+
+https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1 基于单细胞转录组预测细胞代谢通讯 单细胞转录组分析
+
+https://www.nature.com/articles/s41586-022-04770-6 多维进化分析 系统发育
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.15817 鱼类eQTL eQTL
+
 
