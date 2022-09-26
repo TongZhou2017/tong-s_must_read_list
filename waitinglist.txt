@@ -1721,3 +1721,178 @@ https://www.nature.com/articles/s41586-022-04770-6 多维进化分析 系统发�
 https://onlinelibrary.wiley.com/doi/10.1111/mec.15817 鱼类eQTL eQTL
 
 https://pubmed.ncbi.nlm.nih.gov/35664226/ 微生物群落beta多样性计算 微生物多样性
+
+http://agrolifejournal.usamv.ro/pdf/vol.VIII_1/Art19.pdf 海肠生物学特征 海肠
+
+https://europepmc.org/article/cba/626530 海肠肠道发育 海肠
+
+https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-666 测序链向质量偏好 测序基础
+
+https://www.sciencedirect.com/science/article/pii/S0929139312001400 高通量PLFA分析方法 PLFA
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/bies.201900221 空间组学发展历程
+
+https://www.sciencedirect.com/science/article/abs/pii/S0048969722035409?via%3Dihub 何大佬新作 微生物组
+
+https://pubmed.ncbi.nlm.nih.gov/35993907/ 单细胞组学数据保存格式 单细胞组学
+
+https://pubmed.ncbi.nlm.nih.gov/35836413/ 浮游生物多样性的引物选择影响 扩增子测序
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01297-w 非洲土壤微生物组 微生物组
+
+iue.cas.cn/xwzx/kydt/202209/P020220902562162682007.pdf 拉曼光谱识别微生物 拉曼
+
+https://journals.asm.org/doi/10.1128/msystems.00320-22 铠甲虾微生物组 微生物组
+
+https://www.sciencedirect.com/science/article/abs/pii/S0304389422014030?via%3Dihub 系统发育结合多组差异分析的扩增子分析 微生物组
+
+https://www.nature.com/articles/s41564-020-00861-0#author-information 山羊微生物组 微生物组
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.01561/full 扩增子测序分析综述 微生物多样性
+
+https://www.biorxiv.org/content/10.1101/2021.03.05.434042v2 宏基因组分箱工具BASALT 宏基因组
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13691 根据eDNA甲基化水平推断物种年龄 eDNA
+
+https://www.researchgate.net/publication/359561167_Novel_primers_for_16S_rRNA_gene-based_archaeal_and_bacterial_community_analysis_in_oceanic_trench_sediments 海洋原核生物和古菌的16S扩增引物评估 微生物多样性
+
+https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2000.0685 鱼类听力演化 发声与听力
+
+https://bioone.org/journals/zoological-science/volume-17/issue-1/zsj.17.75/Reproduction-in-the-Apodid-Sea-Cucumber-Patinapta-ooplax--Semilunar/10.2108/zsj.17.75.full 海参性别转换 性别决定
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04809-5 从公共数据库获取基因组序列信息的工具 基因组
+
+https://bmcecolevol.biomedcentral.com/counter/pdf/10.1186/s12862-021-01948-w.pdf 长江中华鲟eDNA监测 eDNA
+
+https://pubmed.ncbi.nlm.nih.gov/35837476/ 不同DNA提取方法对Nanopore宏基因组测序稳定性的比较 Nanopore
+
+https://journals.lww.com/otology-neurotology/Fulltext/2021/06000/Microbiome_of_the_Healthy_External_Auditory_Canal.34.aspx 健康外耳道微生物组 微生物组
+
+https://www.nature.com/articles/s41596-022-00692-9 ATAC-seq实验与分析 ATAC-seq
+
+https://academic.oup.com/nar/article/50/13/7479/6640236 单细胞基因组组装 基因组组装
+
+https://www.sciencedirect.com/science/article/abs/pii/S0960982222010788?dgcid=coauthor 水蚤甲壳演化 进化生物学
+
+https://www.biorxiv.org/content/10.1101/2022.07.11.499641v1 基因组物种注释数据库 数据库
+
+https://www.nature.com/articles/s41396-022-01292-x 人类肠道微生物组中历史营养物质暴露的生态记忆 暴露组
+
+https://academic.oup.com/bioinformatics/article/38/18/4423/6651834 k-mer数据格式 数据结构
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13924 OSU概念用Hill指数量化声景多样性的框架 声纹分析
+
+https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac066/6651346?login=false Tourmaline使用容器技术和Qiime2对扩增子数据进行可复现分析 扩增子分析
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-113 2012年邓晔和周集中网络模块化分析 网络分析
+
+https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13640 eDNA被动采样方法比较 eDNA
+
+https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-041421-082251#article-denial Miya年度综述海洋鱼类eDNA的metabarcoding方法 eDNA
+
+https://www.nature.com/articles/s41467-022-31388-z 首个猪单细胞图谱 单细胞组学
+
+https://www.sciencedirect.com/science/article/abs/pii/S0043135421006266#fig0006 李长超WR水圈微生物组组装机制 网络分析
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13904 宁大亮三作土壤真核微生物多样性及群落组装机制 群落组装
+
+https://www.sciencedirect.com/science/article/abs/pii/S0043135421009386?via%3Dihub 宁大亮三作周集中参与电微生物群落组装 群落组装
+
+https://www.nature.com/articles/s41592-022-01412-7 基于scRNA-seq去卷积预测单细胞DNA甲基化 单细胞甲基化
+
+https://pubmed.ncbi.nlm.nih.gov/35846388/ 红海底栖真核微生物分类及功能多样性 真核微生物
+
+https://pubmed.ncbi.nlm.nih.gov/35839241/ 从宏基因组数据中挖掘汞甲基化基因的分析工具 宏基因组
+
+https://www.sciencedirect.com/science/article/abs/pii/S0038071706001209?via%3Dihub 微生物群落在长期碳输入状态下对新碳的利用 微生物碳循环
+
+https://pubmed.ncbi.nlm.nih.gov/35770162/ 16S引物错配 扩增子测序
+
+https://www.science.org/doi/10.1126/science.aau9565 白蚁抗干旱 白蚁
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.709012/full 侃侃的师姐大作根菌代谢循环 根菌
+
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0672-4 宏基因组宏转录组扩增子数据集 微生物免疫
+
+https://pubmed.ncbi.nlm.nih.gov/35783390/ 环境和人为因素塑造了雪地微生物组和抗生素抗性组 宏基因组
+
+https://pubmed.ncbi.nlm.nih.gov/35784064/ 土壤无脊椎动物模拟群落宏基因组 真核宏基因组
+
+https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/jam.15711 海洋微生物组方法综述 海洋微生物
+
+https://almob.biomedcentral.com/articles/10.1186/s13015-022-00221-z 三代宏基因组分箱方法 宏基因组
+
+https://journals.asm.org/doi/epub/10.1128/mSystems.00565-21 基于Tara等全球海洋宏基因组数据评估引物 Tara
+
+https://sfamjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1462-2920.15553?saml_referrer 原核真核混合模拟群落评估扩增引物偏好性 模拟群落
+
+https://www.nature.com/articles/s41467-020-18560-z iCamp 微生物多样性分析
+
+https://www.frontiersin.org/research-topics/20916/community-assembly-mechanisms-shaping-microbiome-spatial-or-temporal-dynamics#articles 群落组装机制专刊 群落组装
+
+https://pubmed.ncbi.nlm.nih.gov/35777598/ 污泥广温谱DNA提取方法 核酸提取
+
+https://opinicon.wordpress.com/species-accounts/spring-peeper/ 声音对树蛙的影响 声纹分析
+
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12687 宏条形码引物数字模拟PCR验证R包primerminer 模拟PCR
+
+https://www.biorxiv.org/content/10.1101/2022.08.01.502383v1 单细胞转录组聚类差异显著性分析 单细胞组学分析
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.343#.YuGwsDgKbis.twitter 使用eDNA调查湖泊鱼类的时空分布 eDNA
+
+https://www.nature.com/articles/nrmicro.2018.9.pdf 微生物氮循环综述 氮循环
+
+https://elifesciences.org/articles/78129 Tara全球尺度下讨论了海洋浮游生物的连通性 Tara
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.342#.YvPVKWY6rDs.twitter eDNA引物测评 eDNA
+
+https://www.pnas.org/doi/10.1073/pnas.2122788119?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed  微生物组差异分析逻辑回归模型LOCOM 差异分析
+
+https://www.nature.com/articles/s41586-022-04695-0.pdf DNA引物合成启动的分子机制 结构生物学
+
+https://www.jstage.jst.go.jp/article/jsme2/33/3/33_ME18065/_pdf/-char/en 海肠微生物组 海肠
+
+https://repository.pknu.ac.kr:8443/handle/2021.oak/1389 海肠微生物组宏基因组 海肠
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/are.14741?saml_referrer 海肠微生物组 海肠
+
+https://jasn.asnjournals.org/content/30/5/767 跨物种肾脏单细胞转录组 单细胞转录组
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/are.15229 养殖方法对海肠微生物组的影响 海肠
+
+https://repository.pknu.ac.kr:8443/handle/2021.oak/2172 海肠抗微生物活性 海肠
+
+https://koreascience.kr/article/JAKO201811041672935.page 海肠体壁酶提取 海肠
+
+https://www.sciencedirect.com/science/article/abs/pii/S1096495919303252 海肠免疫 海肠
+
+https://www.sciencedirect.com/science/article/abs/pii/S1050464818302730 海肠酶提取 海肠
+
+https://downloads.hindawi.com/journals/specialissues/508495.pdf#page=8 海肠抗菌基因全长测序及克隆表达 海肠
+
+https://www.sciencedirect.com/science/article/pii/S001457930800505X 海肠抗菌及黏膜膜机制 海肠
+
+https://www.int-res.com/articles/aei2021/13/q013p211.pdf 不同生境海肠微生物组差异 海肠
+
+https://pubmed.ncbi.nlm.nih.gov/35832621/ 微生物组CNV分析 CNV
+
+https://sci-hub.se/https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13045 基于CRISPR的eDNA检测方法 eDNA
+
+https://link.springer.com/article/10.1007/s10531-019-01709-8 生物和非生物因素对水生环境DNA来源的影响 eDNA
+
+https://www.nature.com/articles/s41598-020-73648-2 KS中国时期eDNA文章 eDNA
+
+https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.12910 KS中国时期eDNA文章 eDNA
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15514 KS的eDNA文章 eDNA
+
+http://www.cje.net.cn/EN/abstract/abstract22353.shtml KS的eDNA文章 eDNA
+
+https://link.springer.com/article/10.1007/s00114-019-1605-1 KS的eDNA文章 eDNA
+
+https://link.springer.com/article/10.1007/s12686-016-0597-9 KS的eDNA文章 eDNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.15942 KS的eDNA文章 eDNA
+
+https://www.authorea.com/users/382644/articles/530333-plant-animal-interactions-in-the-era-of-environmental-dna-edna-a-review KS的eDNA文章 eDNA
+
