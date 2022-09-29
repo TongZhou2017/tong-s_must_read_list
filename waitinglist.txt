@@ -1896,3 +1896,13 @@ https://onlinelibrary.wiley.com/doi/10.1111/mec.15942 KS的eDNA文章 eDNA
 
 https://www.authorea.com/users/382644/articles/530333-plant-animal-interactions-in-the-era-of-environmental-dna-edna-a-review KS的eDNA文章 eDNA
 
+https://www.biorxiv.org/content/10.1101/2022.09.18.508404v1.full?es_id=ccaf6015da WGS比对方法比较 WGS
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13982 基于GitHub的Actions功能进行生态数据自动化收集 GitHub
+
+https://www.nature.com/articles/s41598-022-19939-2 海洋水下生物图像识别 图像识别
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.644487/full 基于贝叶斯方法的16S基因物种注释方法 物种注释
+
+https://journals.asm.org/doi/10.1128/mSystems.00095-16 不同样本类型的微生物组DNA提取方法比较 提取
+
