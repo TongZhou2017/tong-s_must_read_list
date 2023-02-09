@@ -1906,3 +1906,39 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2021.644487/full 基于贝叶
 
 https://journals.asm.org/doi/10.1128/mSystems.00095-16 不同样本类型的微生物组DNA提取方法比较 提取
 
+https://ashpublications.org/blood/article/140/13/1482/485878/Combining-single-cell-tracking-and-omics-improves 单细胞多组学解析血液干细胞分化 血液单细胞
+
+https://www.nature.com/articles/s41396-022-01220-z 宏基因组辅助靶向分离土壤细菌 基因组驱动培养组
+
+https://pubmed.ncbi.nlm.nih.gov/36269282/ 二代和三代宏基因组物种注释方法比较 Nanopore
+
+https://www.nature.com/articles/s41586-022-05222-x?utm_source=naturepod&utm_medium=podcast&utm_campaign=shownotes 学术职业量化分析 职业发展
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0241-2#Sec20 使用iTOL可视化树 iTOL
+
+https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1144 极微小尺度土壤微生物组 土壤微生物组
+
+https://www.nature.com/articles/s41396-021-00932-y 深海沉积物病毒组 病毒组
+
+https://www.cell.com/cell/pdf/S0092-8674(22)01415-5.pdf 细胞轨迹按拓扑结构高亮路径 单细胞分析
+
+https://www.nature.com/articles/s41587-022-01476-y 表冠组-转录组结合预测单细胞命运轨迹 单细胞分析
+
+https://www.nature.com/articles/s41467-022-33397-4 利用自然语言处理破译微生物基因功能 机器学习
+
+https://www.biorxiv.org/content/10.1101/2022.09.30.510300v1 单序列水平DNA甲基化细胞类型解析 去卷积
+
+https://www.biorxiv.org/content/10.1101/2022.09.27.509776v1 转录因子基因调控机制 TF
+
+https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01251-7#relatedArticles 利益的均匀分配稳定了从事代谢分工的微生物群落 微生物代谢
+
+https://peerj.com/articles/14043/ 16S全长扩增子分析流程 全长扩增子
+
+https://www.nature.com/articles/s41576-022-00511-7 使用组学数据预测生物学年龄 衰老
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033865 微生物核酸提取方法比较 微生物组实验
+
+https://www.nature.com/articles/s41596-020-00424-x 人类肠道微生物组的高质量DNA提取-Nanopore测序-宏基因组组装方法 Nanopore
+
+https://onlinelibrary.wiley.com/doi/10.1002/ece3.9289?utm_source=twitter&utm_medium=organic&HootpostID=951dc2af-b213-4e76-a798-22bb81455032&Profile=wileyecolevol 样本量影响 实验设计
+
