@@ -1942,3 +1942,103 @@ https://www.nature.com/articles/s41596-020-00424-x 人类肠道微生物组的�
 
 https://onlinelibrary.wiley.com/doi/10.1002/ece3.9289?utm_source=twitter&utm_medium=organic&HootpostID=951dc2af-b213-4e76-a798-22bb81455032&Profile=wileyecolevol 样本量影响 实验设计
 
+https://www.biorxiv.org/content/10.1101/2023.03.11.532240v1 组学数据分析R包 多组学分析方法
+
+https://pubmed.ncbi.nlm.nih.gov/36917471/ 宏基因组组装方法比较 benchmark
+
+https://pubmed.ncbi.nlm.nih.gov/36912756/ 真核微生物基因组分析流程 真核微生物
+
+https://ecoevorxiv.org/repository/view/5143/ DGAM动态广义可加模型的生态学应用时间序列数据 理论生态
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14059 基于摄影的生态学研究方法 森林生态学
+
+https://pubmed.ncbi.nlm.nih.gov/36813945/ 真核微生物热泉多样性 分子生态学
+
+https://onlinelibrary.wiley.com/doi/10.1111/mec.16884?af=R 长读长测序对生态与进化的推进 长读长测序
+
+https://www.nature.com/articles/s41587-023-01685-z 不依赖微流控技术的单细胞微液滴制备方法 单细胞实验方法
+
+https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuad005/7071893?login=false 珊瑚微生物互作 微生物组
+
+https://www.biorxiv.org/content/10.1101/2023.03.06.531398v1.article-info 斑马鱼单细胞图谱揭示动态发育过程 鱼类单细胞
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.16888?saml_referrer 通常口岸eDNA eDNA
+
+https://www.biorxiv.org/content/10.1101/2023.02.12.527533v1 病毒组的长短读长测序方法benchmark比较 病毒组
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001992 艺术与科学 艺术与科学
+
+https://www.biorxiv.org/content/10.1101/2023.02.02.526888v1 系统发育分析的离群序列识别R包 系统发育分析
+
+https://peerj.com/articles/14927/#p-18 基因注释预测工具 生物信息工具
+
+https://peerj.com/articles/2341/ 一种不怎么流行的OTU聚类方法 扩增子分析工具
+
+https://peerj.com/articles/5364/ ASV去噪方法比较benchmark 扩增子分析
+
+https://www.cell.com/cancer-cell/fulltext/S1535-6108(23)00033-8 肿瘤PD-L1与髓系细胞PD-1的相互作用 癌症生物学
+
+https://www.frontiersin.org/articles/10.3389/fbinf.2022.821861/full 不同用于微生物组数据分析的降维方法比较Knight组工作 微生物组分析
+
+https://www.nature.com/articles/s41559-023-01999-w 审稿偏见 论文撰写
+
+https://www.nature.com/articles/s43586-022-00184-w PCA分析详解 统计分析基础
+
+https://pubmed.ncbi.nlm.nih.gov/36814842/ 宏转录组用于微生物代谢模式分析 宏转录组
+
+https://www.nature.com/articles/s41592-023-01773-7 空间组学数据分析工具 空间组学
+
+https://www.sciencedirect.com/science/article/pii/S0048969723009385 大型水生生物eDNA调查十年回顾综述 eDNA
+
+https://europepmc.org/article/ppr/ppr619509 eDNA物种多样性 eDNA
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.14059 鱼类eDNA eDNA
+
+https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsad017/7058017?login=false 海洋eDNA eDNA
+
+https://www.nature.com/articles/s41592-023-01791-5 单细胞蛋白质组 单细胞蛋白质组
+
+https://pubmed.ncbi.nlm.nih.gov/36799013/ 种水平eDNA检测 eDNA
+
+https://www.nature.com/articles/s41598-023-27816-9 基于扩增子分析藻菌互作网络 公共数据挖掘
+
+https://www.nature.com/articles/s41467-023-37104-9 东海河口海域营养盐 海洋环境
+
+https://pubmed.ncbi.nlm.nih.gov/36910167/ 土壤细菌古菌微生态 土壤微生物组
+
+https://www.biorxiv.org/content/10.1101/2022.12.19.520774v1.full.pdf+html 16S大数据整合分析Knight组成果Greengenes2 整合分析
+
+https://www.nature.com/articles/s41587-021-01108-x#article-info nanopore测序综述 三代测序
+
+https://www.nature.com/articles/s43586-022-00114-w.epdf?sharing_token=6Jett-CCFDLKrXfSCpF6U9RgN0jAjWel9jnR3ZoTv0OzvaqQhhMPTOyQEuHBfj9GEMryzCYn4vbYPqxtQXarVkKD1yehiW1KTAPUrZy9g4-_92V6GusBAhV6DhLHYCYZi0mokX2ddpyVSeZbys0OCSNo2MTTexNc9iWmc1sDU3E%3D 统计重复与假重复 统计学
+
+https://www.biorxiv.org/content/10.1101/2021.04.13.439527v2 长读长人类单细胞基因组 长读长单细胞
+
+https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16348 通过长片段扩增实现SAR86细菌基因组比较分析印证黑皇后假说 单细胞基因组
+
+https://academic.oup.com/evolut/article/76/6/1301/6728607?login=false 空间生态位 生态位
+
+https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04480.x 18Sv4和v9区比较以及一代和二代测序方法比较 扩增子分析
+
+https://www.biorxiv.org/content/10.1101/2020.08.18.256818v1.abstract 16Sv3-v4区与v4区比较 扩增子分析
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16871 红海梯度上不同种群和整体生物体的结构显示了特定物种的进化轨迹 RAD-Seq
+
+https://www.nature.com/articles/s42003-023-04597-5 基于16S扩增子分析的海洋氮循环关键微生物 扩增子分析
+
+https://www.nature.com/articles/s41396-023-01386-0 海洋皮青菌基因群的全球分布差异揭示了不同的生态位相关适应策略 宏基因组
+
+https://www.nature.com/articles/s41586-019-1072-z#Sec2 珊瑚虫与虫黄藻共生机制及其进化地位 共生
+
+https://academic.oup.com/femsec/article/93/1/fiw200/2666402?login=false 长时间序列观测浮游原生动物分布基于18Sv4和v9 真核微生物组
+
+https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lob.10008 Malaspina全球航次 全球航次
+
+https://www.pnas.org/doi/10.1073/pnas.0908816106#supplementary-materials 深海真核微生物多样性基于一代测序 扩增子分析
+
+https://bioone.org/journals/ichthyology-and-herpetology/volume-111/issue-1/i2022044/Taurus-of-the-Tidepool-Inferring-the-Function-of-Cranial-Weapons/10.1643/i2022044.short 形态分析海洋动物的攻击武器 图像分析
+
+https://www.nature.com/articles/nbt.3601#article-info 扩增对扩增子测序及微生物群落结构评估的影响 扩增子测序
+
+https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad050/7048897?login=false#.Y_TlqOMKDAA.twitter 长短读长测序的低丰度物种宏基因组组装效果比较 宏基因组
+
