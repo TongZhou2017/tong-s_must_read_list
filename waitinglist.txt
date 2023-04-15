@@ -2042,3 +2042,139 @@ https://www.nature.com/articles/nbt.3601#article-info 扩增对扩增子测序�
 
 https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad050/7048897?login=false#.Y_TlqOMKDAA.twitter 长短读长测序的低丰度物种宏基因组组装效果比较 宏基因组
 
+https://onlinelibrary.wiley.com/doi/10.1111/ecog.06452 海洋浮游纤毛虫全球分布的细胞尺寸规律 海洋真核微生物组
+
+https://link.springer.com/article/10.1007/s00248-023-02212-y 冷泉沉积物真核微生物多样性 海洋真核微生物组
+
+https://pubmed.ncbi.nlm.nih.gov/37002710/ 使用CRISPR-Cas9富集微生物宏基因组 CRISPR-Cas9的生态学应用
+
+https://www.biorxiv.org/content/10.1101/2023.03.27.534304v1 生命之树的物种分化荟萃分析 meta分析
+
+https://pubmed.ncbi.nlm.nih.gov/36992947/ 海洋eDNA宏条形码综述 eDNA
+
+https://www.biorxiv.org/content/10.1101/2023.03.29.534285v1.full.pdf+html 海洋真核浮游生物单细胞转录组 微生物单细胞组
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.412 eDNA采样影响 eDNA
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.405 eDNA和eRNA综述 eDNA
+
+https://www.nature.com/articles/s41587-023-01728-5 一种新的单细胞轨迹分析方法 单细胞组学分析
+
+https://www.sciencedirect.com/science/article/pii/S235234092200806X#fig0001 宏条形码cytc数据基于系统发育关系聚类 宏条形码
+
+https://www.pnas.org/doi/10.1073/pnas.2220100120 光合作用早起演化证据 进化生物学
+
+https://www.sciencedirect.com/science/article/abs/pii/S0960982223000611 光合纤毛虫中被盗细胞器的功能控制和代谢整合 进化生物学
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12107#:~:text=The%20GMYC%20is%20a%20method,species%20in%20a%20phylogenetic%20tree. 基于系统发育关系的聚类方法 GMYC
+
+https://pubmed.ncbi.nlm.nih.gov/31219680/ 真核微生物ITS全长宏条形码PacBio测序 三代扩增子
+
+https://pubmed.ncbi.nlm.nih.gov/36949817/ Nanopore测序富集宏基因组ARG ARG
+
+https://www.nature.com/articles/s41467-023-37168-7 空间转录组学去卷积方法benchmark 空间组学
+
+https://www.sciencedirect.com/science/article/abs/pii/S0048969720376221 周磊总环微塑料际微生物组 微塑料
+
+https://pubmed.ncbi.nlm.nih.gov/36929079/ 微生物组数据分析方法综述 微生物组
+
+https://www.nature.com/articles/s41598-023-31410-4.epdf?sharing_token=dvNXrTirnwzm0OU5hP_3kdRgN0jAjWel9jnR3ZoTv0OZBvsxtgSgSOeh80ZaSXhF44lx0LCLFrJRd7waz_xuF4dCou1_TVIFKv28aVqtw3bI3qRrWEduiU0wVEEA54zNK59baqO0QX7FM_tYfzk7y2kypuUcpsbXcdyPCVV1MvJR-nc1L-TMhx9RbKtQqajz eDNA种内遗传多样性 eDNA
+
+https://pubmed.ncbi.nlm.nih.gov/36928278/ 环境微生物样本DNA和RNA共提取方法 分子生物实验
+
+https://www.biorxiv.org/content/10.1101/2023.03.09.531927v1 蛋白质结构预测聚类 蛋白质组
+
+https://www.science.org/doi/10.1126/science.abm3452?utm_campaign=SciMag&utm_source=Twitter&utm_medium=ownedSocial 蛋白质组代谢组联合分析 多组学
+
+https://academic.oup.com/bioinformatics/article/29/22/2869/314968 基于系统发育关系的聚类方法比较 PTP
+
+https://www.annualreviews.org/doi/abs/10.1146/annurev.es.19.110188.000315 海洋浮游生物食物链 海洋生态学
+
+https://pubmed.ncbi.nlm.nih.gov/36964756/ 微生物与宿主关系的双系统发育关联分析 系统发育分析
+
+https://www.biorxiv.org/content/10.1101/2023.03.23.534036v1 藻菌互作的分子机制 微生物互作
+
+https://onlinelibrary.wiley.com/doi/10.1002/imt2.72 二三代结合的宏基因组分析方法 宏基因组
+
+https://onlinelibrary.wiley.com/doi/10.1002/ece3.9921#.ZCGSiwgFMfg.twitter 海洋鱼类eDNA采样效率评估 eDNA
+
+https://www.biorxiv.org/content/10.1101/2023.03.24.534159v1 微生物群落功能 微生物组
+
+https://www.nature.com/articles/s43705-023-00231-x 微生物基因组大小变化与代谢能力和环境的关系 进化生物学
+
+https://www.biorxiv.org/content/10.1101/2023.03.25.534242v1 海洋SAR202菌培养 培养组学
+
+https://www.nature.com/articles/s41587-023-01716-9 基于单细胞基因组数据的单细胞表冠组学预测 单细胞分析
+
+https://www.nature.com/articles/s41587-023-01752-5 测量染色质背景对转录因子结合亲和力的影响 转录因子
+
+https://www.biorxiv.org/content/10.1101/2023.03.22.533802v1 空间组学细胞类型去卷积分析方法 空间组学
+
+https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02764-6 胎盘微生物组荟萃分析 微生物组
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01474-5 微生物组动态过程 微生物组
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.403 通过eDNA宏条形码发现的北极新科鱼类 eDNA
+
+https://www.frontiersin.org/articles/10.3389/fmars.2023.1051510/full 沿着大西洋经线的颗粒及其附着的微生物群的丰度和组成 海洋微生物组
+
+https://www.sciencedirect.com/science/article/abs/pii/S0141113623000521 王超峰北极浮游纤毛虫垂直分布 海洋真核微生物
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.400 鱼类eDNA与热浪 eDNA
+
+https://www.nature.com/articles/s41559-023-02021-z.epdf?sharing_token=oC4rxUmzsU1W67lvEWbotNRgN0jAjWel9jnR3ZoTv0NEDar5zWRR6fkrXHFgXW1OdseQqGBvZe7_JhEcAT-Pcp8sHVI6SWn3Z3s4y_rFcYX-MNAbbaTmHCIanEhW43w-F6joD5I0xGNxFkooRgaw11XB2KtCyew4oD176js7zec%3D 不基于注释的微生物群落功能研究方法 微生物组
+
+https://pubmed.ncbi.nlm.nih.gov/36998174/ 宏病毒组数据分析方法 宏病毒组
+
+https://pubmed.ncbi.nlm.nih.gov/36950161/ 海洋硅藻rbcL宏条形码 海洋真核微生物
+
+https://academic.oup.com/mbe/article/40/4/msad064/7084900?login=false 赵方庆阎营苗苗工作纤毛虫终止子 基因组学
+
+https://www.nature.com/articles/s41396-022-01253-4 刘红宾戴磊工作肠道微生物组对膳食纤维的生态动态反应 微生物组
+
+https://pubmed.ncbi.nlm.nih.gov/37017718/ 古DNA微生物组 古DNA
+
+https://www.researchgate.net/publication/369172482_Mock_community_as_an_in_situ_positive_control_for_amplicon_sequencing_of_microbiotas_from_the_same_ecosystem 模拟群落在扩增子测序的阳性对照应用 模拟群落
+
+https://www-webofscience-com-443.webvpn.las.ac.cn/wos/alldb/full-record/MEDLINE:36985377 Nanopore在扩增子测序的优势 三代扩增子
+
+https://www.pnas.org/doi/10.1073/pnas.2208116120 南瓜授粉者基因组种群遗传 种群遗传
+
+https://bg.copernicus.org/articles/20/1277/2023/ 多标记eDNA宏条形码东部边界上升流系统中的中尺度生态分歧的评估 eDNA
+
+https://www.sciencedirect.com/science/article/abs/pii/S1574954123001012 定量PCR与宏条形码eDNA评估方法比较 eDNA
+
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011253 细胞死亡是植物和动物对抗病原体的一种防御策略 凋亡
+
+https://www.pnas.org/doi/10.1073/pnas.2221508120 细菌外代谢物的协同作用驱动根部微生物群的建立 微生物代谢
+
+https://pubmed.ncbi.nlm.nih.gov/37026389/ 蓝藻16S数据库 序列分类数据库
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.414 eDNA降解因素量化分析 eDNA
+
+https://www.sciencedirect.com/science/article/pii/S004313542300355X Nanopore扩增子实时分析 三代扩增子
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02907-y 三代单细胞转录组barcoding序列识别工具 样本标记与拆分
+
+https://www.biorxiv.org/content/10.1101/2023.04.07.536042v1 基因组蛋白深度学习预测 基因组
+
+https://pubmed.ncbi.nlm.nih.gov/37032329/ 宏基因组真核生物信息大规模分析 真核微生物组
+
+https://academic.oup.com/jhered/article/114/2/94/7086686?rss=1&login=false 虎鲸群体遗传 群体遗传
+
+https://www.nature.com/articles/d41586-023-00953-x 全球气候问题的解决方案 双碳
+
+https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30089-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534720300896%3Fshowall%3Dtrue eDNA方法用于水生入侵生物管理综述 eDNA
+
+https://www.biorxiv.org/content/10.1101/2023.04.06.535911v1 PCR扩增错误矫正 单细胞数据分析
+
+https://onlinelibrary.wiley.com/doi/10.1002/edn3.417 eDNA采样方法 eDNA
+
+https://www.nature.com/articles/s41592-023-01814-1 单细胞转录组整合分析方法比较 单细胞分析
+
+https://www.pnas.org/doi/10.1073/pnas.2300465120 DNA病毒对单细胞真核生物基因组的大规模入侵 宏基因组
+
+https://www.science.org/doi/10.1126/science.1168978 Ribo-Seq原始论文 Ribo-Seq
+
+https://www.biorxiv.org/content/10.1101/2023.04.05.535718v1 泛基因组图谱构建 基因组
+
