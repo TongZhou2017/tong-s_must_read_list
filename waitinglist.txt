@@ -1722,6 +1722,63 @@ https://onlinelibrary.wiley.com/doi/10.1111/mec.15817 鱼类eQTL eQTL
 
 https://pubmed.ncbi.nlm.nih.gov/35664226/ 微生物群落beta多样性计算 微生物多样性
 
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13707 生物适应环境的基因表达模式 转录组
+
+https://pubmed.ncbi.nlm.nih.gov/35661258/ 海绵非细菌微生物组宏基因组 多类型微生物组 https://www.ebi.ac.uk/ena/browser/view/PRJEB49259
+
+https://www.biorxiv.org/content/10.1101/2022.06.03.494608v1.full.pdf+html 超大系统发育树可视化工具 系统发育分析
+
+https://www.biorxiv.org/content/10.1101/2022.06.02.494505v1 基于Galaxy的生物信息学教学培训框架 培训
+
+https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac204/6603436?login=false 使用BERT模型识别宏基因组数据中的真核病毒序列 宏基因组
+
+https://www.nature.com/articles/s41587-022-01341-y 单细胞基因组数据分析方法 单细胞组学
+
+https://www.frontiersin.org/articles/10.3389/fmars.2022.878803/full 多模态浮游生物学调查综述 多模态
+
+https://pubs.acs.org/doi/10.1021/acs.est.2c01672#.Yp4Au7-QLvE.twitter eDNA降解速度与温度的关系 eDNA
+
+https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16081 三代扩增子多样性 Nanopore
+
+https://www.cambridge.org/core/journals/quantitative-plant-biology/article/plant-genome-sequence-assembly-in-the-era-of-long-reads-progress-challenges-and-future-directions/3932B956CC468D07D3E14525FEAFEC3E 三代测序在植物基因组组装的应用 三代测序
+
+https://link.springer.com/article/10.1007/s11355-022-00513-x 3种鱼类eDNA芯片 eDNA
+
+https://www.biorxiv.org/content/10.1101/2022.04.20.488927v1.full.pdf+html 使用海绵进行eDNA被动采样 eDNA
+
+https://onlinelibrary.wiley.com/doi/10.1111/jfb.14460#.YnhEWX71_Cg.twitter 不同的测序条件和采样体积影响鳗鱼eDNA检测结果 eDNA
+
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13879#.YnWpN5__Isk.twitter eDNA和eRNA的比较 eDNA
+
+https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1298?af=R#.YqlAyw0RfGd.twitter 宏基因组组装MAG方法综述 宏基因组
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.32#.YqhJ4Dp-Pgc.twitter 微生物组网络分析及可视化R包 网络分析
+
+https://www.biorxiv.org/content/10.1101/2022.03.09.483664v2 真核宏基因组自动分析工具 宏基因组
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.13655?saml_referrer eRNA降解速率比eDNA快 eDNA
+
+https://www.nature.com/articles/s43588-022-00201-8.epdf?sharing_token=cwH-AZs5IS_J7wnd6nmk5tRgN0jAjWel9jnR3ZoTv0Nf4GiOHAIAW8v0ASHze2RUkGiXLpkyaiKewtjcDNZZaePYGHvWrPNQcNaAWbo_QiCiT4HMK0RPaSQjVdhA3GEUfvbJdX-WxnyCqR1IaY_CEN9smdauZ4y6HHZW7vmY26A%3D 长序列快速比对工具 三代测序
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13658#.YqkNlQWLHc4.twitter eDNA在生物调查中的重要性 eDNA
+
+https://academic.oup.com/plankt/advance-article/doi/10.1093/plankt/fbac026/6603922?searchresult=1&login=false 组学与海洋地球化学循环耦合综述 地球化学循环
+
+https://academic.oup.com/bioinformatics/article-abstract/38/10/2949/6565314?redirectedFrom=fulltext&login=false PCA维度选择工具 统计学
+
+https://www.cell.com/trends/genetics/fulltext/S0168-9525(22)00071-3 DNA甲基化综述 DNA甲基化
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac420/6605321?login=false Tara航次在线数据库 Tara
+
+https://www.nature.com/articles/s41396-022-01264-1 真核生物细胞中的嘌呤晶体 细胞生物学
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02690-2 数字模拟Chip-seq 数字模拟
+
+https://www.sciencedirect.com/science/article/pii/S2001037022002021 单细胞Hi-C分析工具 单细胞组学
+
+https://www.nature.com/articles/s41467-022-28778-8 蚂蟥iDNA eDNA
+
 http://agrolifejournal.usamv.ro/pdf/vol.VIII_1/Art19.pdf 海肠生物学特征 海肠
 
 https://europepmc.org/article/cba/626530 海肠肠道发育 海肠
